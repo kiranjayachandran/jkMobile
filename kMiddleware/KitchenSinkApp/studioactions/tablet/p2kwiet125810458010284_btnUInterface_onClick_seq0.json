@@ -1,0 +1,1 @@
+{"p2kwiet125810458010284_btnUInterface_onClick_seq0":{"id":"p2kwiet125810458010284_btnUInterface_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"navigation_onClick_3966512581045803097","type":"NAVIGATE_TO_FORM","$formId":"frmUInterface","enableMappingEditor":false,"formKUID":"p2kwiet125810458010813"}]}}

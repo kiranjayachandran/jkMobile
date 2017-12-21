@@ -1,0 +1,80 @@
+{
+    "DNDConfig": null,
+    "Image": "default.png",
+    "_enabled_": false,
+    "_skin_": "sb88823446e94555ab7eb8e8ca4c9c53",
+    "_text_": "",
+    "advview": "default",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "enddate": [
+        30,
+        8,
+        2013
+    ],
+    "focusskin": "sb88823446e94555ab7eb8e8ca4c9c53",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "",
+    "hexpand": true,
+    "id": "calendar103994549623759",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045809207",
+    "name": "kony.ui.Calendar",
+    "pagedate": "8/2013",
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "selectdate": "8/0/2013",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPADateFieldProperty"
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAIPhoneDateFieldProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "startdate": [
+        1,
+        8,
+        2013
+    ],
+    "vexpand": false,
+    "viewconfig": {
+        "gridConfig": {
+            "allowWeekendSelectable": true,
+            "leftNavigationImage": "",
+            "rightNavigationImage": ""
+        }
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5
+}

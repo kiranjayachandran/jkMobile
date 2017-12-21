@@ -1,0 +1,85 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s649496ab25f47f1903c60b2ebc405e7",
+    "_title_": "TextArea",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "hBoxTextArea",
+        "label117989725235254",
+        "textarea2117989725235255",
+        "label117989725235273",
+        "textarea2117989725235286",
+        "label117989725235318",
+        "textarea2117989725235330",
+        "label117989725235348",
+        "textarea2117989725235366",
+        "label117989725235378",
+        "textarea2117989725235390",
+        "label117989725235408",
+        "textarea2117989725235426",
+        "label1181029310129631",
+        "textarea21181029310129661"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "footeroverlap": false,
+    "headeroverlap": false,
+    "id": "frmTxtArea",
+    "info": null,
+    "initdone": false,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "ismodal": false,
+    "isvisible": true,
+    "kuid": "frmTxtAreaSPABlackberry",
+    "margininpixel": false,
+    "menuposition": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "percent": true,
+    "restorewidgetprototypes": true,
+    "retainscrollposition": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.form.SPAFormProperty",
+        "inTransitionConfig": {
+            "formTransition": "leftCenter"
+        },
+        "isModal": false,
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "formTransition": "none"
+        },
+        "psp": {
+            "dockableAppMenu": true,
+            "dockableFooter": true,
+            "dockableHeader": true
+        }
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.form.SPABBFormProperty",
+        "needAppMenu": true,
+        "render": true
+    },
+    "templateType": "forms",
+    "titleBarSkin": "s342642060ca4e28902c77776b2566b6",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "type": 3,
+    "wType": "Form",
+    "widgetalignment": 1
+}

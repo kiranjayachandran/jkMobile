@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sda7f2db1b2d48478ce21a6e3862dc7b",
+    "_text_": "Button With 3 Patch Image",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ad12fd924b4f9aa693a8f4a8fdf79f",
+    "hexpand": true,
+    "id": "button1210492603907",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808556",
+    "name": "kony.ui.Button",
+    "parent": "frmBtn",
+    "pf": "frmBtn",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPABBButtonProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "_padding_": [
+            0,
+            8,
+            0,
+            8
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            8,
+            0,
+            8
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

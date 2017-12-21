@@ -1,0 +1,176 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "sd8914af9a4e4398bef508de55d785aa",
+    "_text_": "Private mode",
+    "accessmode": "private",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.AndroidCameraProperty",
+        "_margin_": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "accessMode": "private",
+        "compressionLevel": 70,
+        "enableOverlay": true,
+        "margin": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "marginInPixel": true,
+        "overlayConfig": {
+            "overlayForm": "frmDummy",
+            "tapAnywhere": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "compressionlevel": 70,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enableoverlay": true,
+    "focusskin": "sad166950743462aaa382dc6b99c77bf",
+    "hexpand": true,
+    "id": "camera1930040990139338",
+    "ide_onCapture": "p2kwiet12581045806645_camera1930040990139338_onCapture_seq0",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.IPhoneCameraProperty",
+        "_margin_": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "accessMode": "private",
+        "compressionLevel": 70,
+        "enableOverlay": true,
+        "margin": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "marginInPixel": true,
+        "overlayConfig": {},
+        "psp": {
+            "captureOrientation": 0,
+            "imageFormat": 1,
+            "nativeUserInterface": true
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806636",
+    "margininpixel": false,
+    "name": "kony.ui.Camera",
+    "paddinginpixel": false,
+    "parent": "frmCamAcsModes",
+    "pf": "frmCamAcsModes",
+    "scalefactor": 80,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPACameraProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAAndroidCameraProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPABBCameraProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAIPhoneCameraProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAWinPhone8CameraProperty",
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "Camera",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.WinPhone8CameraProperty",
+        "_margin_": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "accessMode": "private",
+        "enableOverlay": true,
+        "margin": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "marginInPixel": true,
+        "overlayConfig": {
+            "overlayForm": "frmCameraOverlaid",
+            "referenceImageToCrop": "image21927419382155502",
+            "tapAnywhere": true
+        },
+        "psp": {
+            "enableCache": false,
+            "enablePhotoCropFeature": false
+        },
+        "render": true
+    }
+}

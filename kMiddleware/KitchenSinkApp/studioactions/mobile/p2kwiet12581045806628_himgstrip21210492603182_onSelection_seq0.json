@@ -1,0 +1,1 @@
+{"p2kwiet12581045806628_himgstrip21210492603182_onSelection_seq0":{"id":"p2kwiet12581045806628_himgstrip21210492603182_onSelection_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"expression_onSelection_5216212581045802973","enableMappingEditor":false,"type":"ADD_SNIPPET","codeSnippet":"kony.print(\"entered here\")"}]}}

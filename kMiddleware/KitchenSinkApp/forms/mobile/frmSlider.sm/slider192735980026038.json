@@ -1,0 +1,150 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_max_": 100,
+    "_min_": 0,
+    "_orientation_": "horizontal",
+    "_step_": 1,
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.AndroidSliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "leftSkin": "s24542ff041f45219a807b632f78a2e7",
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "render": true,
+        "rightSkin": "sb2b5d5f047c44fc8d6d5251e89fdc65"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "slider192735980026038",
+    "imgwt": 44,
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.IPhoneSliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "leftSkin": "s24542ff041f45219a807b632f78a2e7",
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "render": true,
+        "rightSkin": "sb2b5d5f047c44fc8d6d5251e89fdc65"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808272",
+    "leftskin": "s24542ff041f45219a807b632f78a2e7",
+    "name": "kony.ui.Slider",
+    "noofsteps": 100,
+    "parent": "frmSlider",
+    "pf": "frmSlider",
+    "rightskin": "sb2b5d5f047c44fc8d6d5251e89fdc65",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAAndroidSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPABBSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAIPhoneSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAWinPhone8SliderProperty",
+        "render": true
+    },
+    "stepwidth": 0,
+    "vexpand": false,
+    "view": "default",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.WinPhone8SliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "leftSkin": "sa81aaa74b3b4e98ab9058a5c921db0b",
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true,
+        "rightSkin": "sda63921ee44489ca2ac0ce9f6d5d283"
+    }
+}

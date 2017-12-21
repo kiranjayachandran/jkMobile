@@ -1,0 +1,54 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        4,
+        2,
+        2
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_text_": "Browser",
+    "_type_": 3,
+    "canUpdateUI": true,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.DesktopWebBrowserProperty",
+        "render": true
+    },
+    "detecttelnumber": true,
+    "enablezoom": false,
+    "hexpand": true,
+    "htmlstring": "",
+    "id": "brwDemo",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.KioskBrowserProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011958",
+    "margininpixel": false,
+    "name": "kony.ui.Browser",
+    "paddinginpixel": false,
+    "parent": "frmBrowser",
+    "pf": "frmBrowser",
+    "requesturlconfig": {
+        "URL": "",
+        "requestMethod": "get"
+    },
+    "screenlevelwidget": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.SPABrowserProperty"
+    },
+    "vexpand": false,
+    "wType": "Browser",
+    "widgetalignment": 5
+}

@@ -1,0 +1,82 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_orientation_": 1,
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s07168b3fc5c4828982150b6a9606756",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.AndroidScrollBoxProperty",
+        "_position_": 3,
+        "enableScrollByPage": false,
+        "position": 3,
+        "render": true,
+        "showScrollbars": false,
+        "undefined": false
+    },
+    "canUpdateUI": true,
+    "children": [
+        "vbox192735980067334",
+        "vbox192735980042697"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "enablescrollbypage": false,
+    "id": "sboxGlobalHome",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.IPadScrollBoxProperty",
+        "_position_": 3,
+        "enableScrollByPage": false,
+        "position": 3,
+        "psp": {
+            "bounces": true
+        },
+        "render": true,
+        "showScrollbars": false,
+        "undefined": false
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010063",
+    "layoutalignment": 3,
+    "name": "kony.ui.ScrollBox",
+    "parent": "frmScrollBoxMenu",
+    "pf": "frmScrollBoxMenu",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 4,
+    "scrollingevents": null,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAScrollBoxProperty",
+        "psp": {
+            "scrollArrowConfig": [
+                null,
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAAndroidTabletScrollBoxProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAIPadScrollBoxProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAWindowsTabletScrollBoxProperty",
+        "render": true
+    },
+    "templateType": "forms",
+    "totalWt": 0,
+    "wType": "ScrollBox",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.Windows8ScrollBoxProperty",
+        "render": true
+    }
+}

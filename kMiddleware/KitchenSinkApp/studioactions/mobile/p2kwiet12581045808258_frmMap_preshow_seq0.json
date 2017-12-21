@@ -1,0 +1,1 @@
+{"p2kwiet12581045808258_frmMap_preshow_seq0":{"id":"p2kwiet12581045808258_frmMap_preshow_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"},{"name":"neworientation","value":"neworientation"}],"actions":[{"id":"customcode_preshow_5182612581045804126","type":"INVOKE_FUNCTION","sequenceKUID":"setLocationData","display":"setLocationData"}]}}

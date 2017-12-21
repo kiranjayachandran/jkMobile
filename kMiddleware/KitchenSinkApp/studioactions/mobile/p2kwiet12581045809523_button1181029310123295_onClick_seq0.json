@@ -1,0 +1,1 @@
+{"p2kwiet12581045809523_button1181029310123295_onClick_seq0":{"id":"p2kwiet12581045809523_button1181029310123295_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_9571512581045806868","type":"INVOKE_FUNCTION","sequenceKUID":"geoPosition","display":"geoPosition"}]}}

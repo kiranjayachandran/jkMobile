@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_render_": true,
+    "_skin_": "sfab922ebb314f98a32558d4286fc082",
+    "_text_": "This is a simple form consists of different widgets including Label, Textbox2, Combobox, Richtext, Calendar, hBox, Checkboxgroup, Radiobutton.",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 35,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.DesktopWebRichTextProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "hexpand": true,
+    "id": "rTxTermsNConditions",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.KioskRichTextProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012068",
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "hbox685080434212759",
+    "pf": "frmForm",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPARichTextProperty"
+    },
+    "vexpand": false,
+    "wType": "RichText",
+    "widgetalignment": 5
+}

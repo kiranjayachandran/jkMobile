@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_render_": true,
+    "_skin_": "s2501e1240d14dba8421a03fe2236ee1",
+    "_text_": "Please click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.\nPlease click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.\nPlease click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.AndroidTextArea2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "contentAlignment": 1,
+        "keyBoardStyle": "A",
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerweight": 100,
+    "contentalignment": 1,
+    "focusskin": "sdc2b4c53da44020b0969eac32564edb",
+    "hexpand": true,
+    "id": "textarea2192735980042709",
+    "info": null,
+    "isvisible": true,
+    "keyboardactionlabel": "",
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "p2kwiet12581045807558",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "parent": "scrollbox1927359800110223",
+    "pf": "frmScrollBoxMenu",
+    "securetextentry": false,
+    "showclosebutton": false,
+    "showoprogressindicator": true,
+    "showprogressindicator": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.SPATextArea2Property",
+        "autoCorrect": false
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextArea",
+    "widgetalignment": 4
+}

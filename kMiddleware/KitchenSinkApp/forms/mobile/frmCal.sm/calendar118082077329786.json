@@ -1,0 +1,249 @@
+{
+    "DNDConfig": null,
+    "Image": "default.png",
+    "_enabled_": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb88823446e94555ab7eb8e8ca4c9c53",
+    "_text_": "",
+    "advview": "default",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.AndroidDateFieldProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            4,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            4,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false
+        },
+        "render": false,
+        "viewType": "onscreen"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "enddate": [
+        30,
+        8,
+        2013
+    ],
+    "focusskin": "s216667969594b3da564110586d5bbb3",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "",
+    "hexpand": true,
+    "id": "calendar118082077329786",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.IPhoneDateFieldProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false,
+            "mode": 0
+        },
+        "render": true,
+        "viewType": "onscreen"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807134",
+    "name": "kony.ui.Calendar",
+    "paddinginpixel": false,
+    "pagedate": "8/2013",
+    "parent": "frmCal",
+    "pf": "frmCal",
+    "selectdate": "8/0/2013",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPADateFieldProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAAndroidDateFieldProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPABBDateFieldProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAIPhoneDateFieldProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAWinPhone8DateFieldProperty",
+        "render": true
+    },
+    "startdate": [
+        1,
+        8,
+        2013
+    ],
+    "vexpand": false,
+    "viewconfig": {
+        "gridConfig": {
+            "allowWeekendSelectable": true,
+            "leftNavigationImage": "",
+            "rightNavigationImage": ""
+        }
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.WinPhone8DateFieldProperty",
+        "_margin_": [
+            14,
+            4,
+            14,
+            4
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            14,
+            4,
+            14,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true,
+        "viewType": "onscreen"
+    }
+}

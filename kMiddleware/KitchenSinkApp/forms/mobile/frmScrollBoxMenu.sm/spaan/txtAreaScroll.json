@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_render_": true,
+    "_skin_": "s2501e1240d14dba8421a03fe2236ee1",
+    "_text_": "Only a life lived for others is a life worthwhile. \nAlbert Einstein \n\nDo not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerweight": 100,
+    "contentalignment": 1,
+    "focusskin": "sdc2b4c53da44020b0969eac32564edb",
+    "hexpand": true,
+    "id": "txtAreaScroll",
+    "info": null,
+    "isvisible": true,
+    "keyboardactionlabel": "",
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "p2kwiet12581045807737",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "parent": "scrollbox1927359800110223",
+    "pf": "frmScrollBoxMenu",
+    "securetextentry": false,
+    "showclosebutton": false,
+    "showoprogressindicator": true,
+    "showprogressindicator": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.SPATextArea2Property",
+        "autoCorrect": false
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.SPAAndroidTextArea2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextArea",
+    "widgetalignment": 4
+}

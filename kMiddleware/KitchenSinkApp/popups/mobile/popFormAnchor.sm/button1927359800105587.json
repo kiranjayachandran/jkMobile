@@ -1,0 +1,208 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sdc4690d779b47f5b27d288aacd977c5",
+    "_text_": "Clear All",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "displayText": true,
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sec3c4b5e896469cb6573beb06740428",
+    "hexpand": true,
+    "id": "button1927359800105587",
+    "ide_onClick": "p2kwiet125810458012208_button1927359800105587_onClick_seq0",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.button.IPhoneButtonProperty",
+        "_margin_": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "_padding_": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "displayText": true,
+        "margin": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012206",
+    "name": "kony.ui.Button",
+    "parent": "popFormAnchor",
+    "pf": "popFormAnchor",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "contentAlignment": 2,
+        "displayText": true
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidButtonProperty",
+        "_margin_": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPABBButtonProperty",
+        "_margin_": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "_padding_": [
+            1,
+            3,
+            1,
+            4
+        ],
+        "margin": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            3,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPhoneButtonProperty",
+        "_margin_": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAWinPhone8ButtonProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.WinPhone8ButtonProperty",
+        "_margin_": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "_padding_": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "displayText": true,
+        "margin": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

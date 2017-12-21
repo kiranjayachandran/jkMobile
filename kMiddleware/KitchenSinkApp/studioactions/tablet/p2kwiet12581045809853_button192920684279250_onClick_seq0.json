@@ -1,0 +1,1 @@
+{"p2kwiet12581045809853_button192920684279250_onClick_seq0":{"id":"p2kwiet12581045809853_button192920684279250_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_7434912581045809330","type":"INVOKE_FUNCTION","sequenceKUID":"doTransactionsqlSelect","display":"doTransactionsqlSelect"}]}}

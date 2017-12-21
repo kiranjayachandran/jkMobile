@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s995c3f55e8f45ea863626a3050b4062",
+    "_text_": "<p>KonyOne's device detection database and heuristics identifies all browser categories from the most basic through different levels of HTML, CSS and JavaScript support, to all of the various HTML5-capable browsers in smartphones, tablets and the desktop. Depending on the type of browser, the user will be served markup, style and/or script appropriate and acceptable to their device, ensuring a solid experience and optimum UI.</p>",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.DesktopWebRichTextProperty",
+        "_padding_": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "padding": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "hexpand": true,
+    "id": "richtext192926642422048",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.KioskRichTextProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011974",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "tab193203698712666",
+    "pf": "frmTabPane",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPARichTextProperty"
+    },
+    "tabpaneId": "tabpane193203698712660",
+    "vexpand": false,
+    "wType": "RichText",
+    "widgetalignment": 5
+}

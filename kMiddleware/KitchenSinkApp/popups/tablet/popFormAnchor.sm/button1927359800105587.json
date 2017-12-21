@@ -1,0 +1,189 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s46827849f6f4c33b7fd9d2017c86566",
+    "_text_": "Clear All",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "_margin_": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "_padding_": [
+            3,
+            20,
+            3,
+            9
+        ],
+        "contentAlignment": 5,
+        "displayText": true,
+        "margin": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            20,
+            3,
+            9
+        ],
+        "paddingInPixel": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sec3c4b5e896469cb6573beb06740428",
+    "hexpand": true,
+    "id": "button1927359800105587",
+    "ide_onClick": "p2kwiet125810458012224_button1927359800105587_onClick_seq0",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
+        "_margin_": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "_padding_": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "displayText": true,
+        "margin": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012222",
+    "name": "kony.ui.Button",
+    "parent": "popFormAnchor",
+    "pf": "popFormAnchor",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "contentAlignment": 2,
+        "displayText": true
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidTabletButtonProperty",
+        "_margin_": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPadButtonProperty",
+        "_margin_": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAWindowsTabletButtonProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.Windows8ButtonProperty",
+        "_margin_": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "_padding_": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "displayText": true,
+        "margin": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "paddingInPixel": true,
+        "render": true
+    }
+}

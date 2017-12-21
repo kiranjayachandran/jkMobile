@@ -1,0 +1,1 @@
+{"p2kwiet125810458011705_btnMulSelect_onClick_seq0":{"id":"p2kwiet125810458011705_btnMulSelect_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_9348712581045809633","type":"INVOKE_FUNCTION","sequenceKUID":"multiSelectTab","display":"multiSelectTab"}]}}

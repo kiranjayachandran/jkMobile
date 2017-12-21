@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "Enter text",
+    "_render_": true,
+    "_skin_": "sb12f85b132246aa9107495f1b14719c",
+    "_text_": "",
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerweight": 70,
+    "contentalignment": 1,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.DesktopWebTextArea2Property",
+        "render": true
+    },
+    "focusskin": "sb12f85b132246aa9107495f1b14719c",
+    "hexpand": true,
+    "id": "textarea2117989725235366",
+    "info": null,
+    "isvisible": true,
+    "keyboardactionlabel": "",
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.KioskTextArea2Property",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011642",
+    "margininpixel": false,
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "paddinginpixel": false,
+    "parent": "hbox68508043454988",
+    "pf": "frmTextArea",
+    "securetextentry": false,
+    "showclosebutton": false,
+    "showoprogressindicator": true,
+    "showprogressindicator": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.SPATextArea2Property",
+        "autoCorrect": false
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextArea",
+    "widgetalignment": 5
+}

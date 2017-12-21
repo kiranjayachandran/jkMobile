@@ -1,0 +1,201 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s284b66e086b42cf80659e5fa870f8bf",
+    "_text_": "Dismiss",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "_margin_": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "displayText": true,
+        "margin": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 99,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4166f0e08ec44449edd6c0000d7414f",
+    "hexpand": true,
+    "id": "button117822895617121",
+    "ide_onClick": "p2kwiet125810458012220_button117822895617121_onClick_seq0",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
+        "_margin_": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "displayText": true,
+        "margin": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012216",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox117822895616959",
+    "pf": "popTopNBottom",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidTabletButtonProperty",
+        "_margin_": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPadButtonProperty",
+        "_margin_": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAWindowsTabletButtonProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.Windows8ButtonProperty",
+        "_margin_": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "displayText": true,
+        "margin": [
+            30,
+            0,
+            30,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    }
+}

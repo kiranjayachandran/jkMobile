@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2e0fd0ebc6940dd82405e073fb93e0e",
+    "_src_": "frame8.png",
+    "_text_": "frame8.png",
+    "canUpdateUI": true,
+    "containerweight": 17,
+    "contentalignment": 5,
+    "hexpand": false,
+    "id": "image21927305024579171",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010184",
+    "margininpixel": false,
+    "name": "kony.ui.Image2",
+    "paddinginpixel": false,
+    "parent": "scrollbox1927305024579170",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "srcType": 1,
+    "vexpand": false,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.Windows8Image2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    }
+}

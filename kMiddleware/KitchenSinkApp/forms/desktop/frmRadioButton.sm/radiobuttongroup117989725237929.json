@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s32a9c3afa9740cbb09a281f04274e6e",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 70,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.DesktopWebRadioProperty",
+        "render": true
+    },
+    "focusskin": "s32a9c3afa9740cbb09a281f04274e6e",
+    "hexpand": true,
+    "id": "radiobuttongroup117989725237929",
+    "info": null,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.KioskRadioProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011454",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "Key1",
+            "Value1"
+        ],
+        [
+            "Key2",
+            "Value2"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "paddinginpixel": false,
+    "parent": "hbox68508043454814",
+    "pf": "frmRadioButton",
+    "selectedkey": "",
+    "selectedkeyvalue": [],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPARadioProperty"
+    },
+    "vexpand": false,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 4
+}

@@ -1,0 +1,1 @@
+{"p2kwiet125810458011006_button1930040990148062_onClick_seq0":{"id":"p2kwiet125810458011006_button1930040990148062_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_8927812581045809159","type":"INVOKE_FUNCTION","sequenceKUID":"addContact","display":"addContact"}]}}

@@ -1,0 +1,203 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2bf2519173c4ce6893ff14f96ad2100",
+    "_text_": "Label",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "_margin_": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            4,
+            3,
+            4,
+            3
+        ],
+        "margin": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            4,
+            3,
+            4,
+            3
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 90,
+    "contentalignment": 1,
+    "hexpand": true,
+    "id": "label1041822331232",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "_margin_": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            4,
+            13,
+            4,
+            13
+        ],
+        "margin": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            4,
+            13,
+            4,
+            13
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "textCopyable": false,
+            "wrapping": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807300",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "parent": "hbox192822373931791",
+    "pf": "vbox1258104580611",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidLabelProperty",
+        "_padding_": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "padding": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPABBLabelProperty",
+        "_padding_": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "padding": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPhoneLabelProperty",
+        "_padding_": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "padding": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAWinPhone8LabelProperty",
+        "_margin_": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.WinPhone8LabelProperty",
+        "_margin_": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            4,
+            13,
+            4,
+            13
+        ],
+        "margin": [
+            12,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            4,
+            13,
+            4,
+            13
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

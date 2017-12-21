@@ -1,0 +1,92 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se37be06e86145bdb8f4167d92f7f19f",
+    "_text_": "Name",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 50,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.label.DesktopWebLabelProperty",
+        "_margin_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "_padding_": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "hexpand": true,
+    "id": "lbl7",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012519",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "hbx1",
+    "pf": "dynamicTemplate2",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

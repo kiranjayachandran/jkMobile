@@ -1,0 +1,75 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s07168b3fc5c4828982150b6a9606756",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "image21929296215104997",
+        "image21929296215105015",
+        "image21929296215105021",
+        "image21929296215105027",
+        "image21929296215105055",
+        "image21929296215105061",
+        "image21929296215105087",
+        "image21929296215105093"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.DesktopWebScrollBoxProperty",
+        "psp": {
+            "scrollArrowConfig": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "render": true
+    },
+    "enablescrollbypage": false,
+    "id": "scrollbox1929296215104992",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.KioskScrollBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012196",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.ScrollBox",
+    "paddinginpixel": false,
+    "parent": "vbox1929296215104979",
+    "pf": "frmScrollBox",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 1,
+    "scrollingevents": null,
+    "showscrollbars": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAScrollBoxProperty"
+    },
+    "templateType": "forms",
+    "totalWt": 0,
+    "wType": "ScrollBox",
+    "widgetalignment": 1
+}

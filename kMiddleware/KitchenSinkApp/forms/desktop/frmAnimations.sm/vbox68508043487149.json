@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        2,
+        0,
+        2,
+        0
+    ],
+    "_resize_": true,
+    "_skin_": "s6fc5e0f4c69484c8e8ee5f9c47fcecc",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "hbox68508043489238",
+        "hbox68508043491059"
+    ],
+    "containerweight": 75,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.DesktopWebVBoxProperty",
+        "render": true
+    },
+    "id": "vbox68508043487149",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.KioskVBoxProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011527",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "hbox68508043476623",
+    "pf": "frmAnimations",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

@@ -1,0 +1,99 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd28863081364871b1a91441ac3acbde",
+    "_text_": "Link",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.link.AndroidLinkProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 39,
+    "contentalignment": 5,
+    "focusskin": "se7b9f7ae7fb4b34a11a68528f8fba41",
+    "hexpand": true,
+    "id": "imgActionLink",
+    "ide_onClick": "p2kwiet125810458012372_imgActionLink_onClick_seq0",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.link.IPhoneLinkProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012369",
+    "margininpixel": false,
+    "name": "kony.ui.Link",
+    "paddinginpixel": false,
+    "parent": "hbxActionTemplate",
+    "pf": "actionWidsTemplate",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPALinkProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPAAndroidLinkProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPABBLinkProperty",
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPAIPhoneLinkProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPAWinPhone8LinkProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Link",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.link.WinPhone8LinkProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

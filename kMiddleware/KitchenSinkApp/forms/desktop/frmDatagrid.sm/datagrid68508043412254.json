@@ -1,0 +1,140 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "a": "A",
+            "b": "E",
+            "c": "HELLO"
+        },
+        {
+            "a": "B",
+            "b": "D",
+            "c": "WORLD"
+        },
+        {
+            "a": "C",
+            "b": "C",
+            "c": "HELLO"
+        },
+        {
+            "a": "D",
+            "b": "B",
+            "c": "WORLD"
+        },
+        {
+            "a": "E",
+            "b": "A",
+            "c": "HELLO"
+        }
+    ],
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_text_": "",
+    "canUpdateUI": true,
+    "cellBorder": "thin solid #5c115c",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "FIRST",
+            "columnID": "a",
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281201"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "SECOND",
+            "columnID": "b",
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281203"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "THIRD",
+            "columnID": "c",
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281205"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2",
+        "col3"
+    ],
+    "columntype": [
+        "text",
+        "text",
+        "text"
+    ],
+    "containerweight": 70,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "NewForm2013722173539288",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "counter": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.table.DesktopWebTableProperty",
+        "psp": {
+            "dockingHeader": false,
+            "enableScrollBar": "0"
+        },
+        "render": true
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinecolor": "5c115c",
+    "gridlinestyle": "solid",
+    "headerskin": "s4b5f5627a86414a98f1f574c1abfcc9",
+    "hexpand": true,
+    "id": "datagrid68508043412254",
+    "info": null,
+    "ismultiselect": false,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.table.KioskTableProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012028",
+    "margininpixel": false,
+    "name": "kony.ui.DataGrid",
+    "paddinginpixel": false,
+    "parent": "hbox68508043412156",
+    "pf": "frmDatagrid",
+    "rowalternateskin": "s361cc340e034b9fb7fffad39d1c3582",
+    "rowcount": 4,
+    "rowfocusskin": "s20aab17440d45069c6e44260e238fda",
+    "rownormalskin": "s361cc340e034b9fb7fffad39d1c3582",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPATableProperty"
+    },
+    "vexpand": false,
+    "wType": "DataGrid",
+    "widgetalignment": 5
+}

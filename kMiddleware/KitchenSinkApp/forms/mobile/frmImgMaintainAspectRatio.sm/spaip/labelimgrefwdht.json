@@ -1,0 +1,77 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf673c8b156147b1a57eef3b501b9111",
+    "_text_": "The below image is of size 600x600 with 300 x300 referenceWidth and referenceHeight",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "labelimgrefwdht",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808872",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "frmImgMaintainAspectRatio",
+    "pf": "frmImgMaintainAspectRatio",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPhoneLabelProperty",
+        "_margin_": [
+            4,
+            3,
+            4,
+            3
+        ],
+        "_padding_": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "margin": [
+            4,
+            3,
+            4,
+            3
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            4,
+            2,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

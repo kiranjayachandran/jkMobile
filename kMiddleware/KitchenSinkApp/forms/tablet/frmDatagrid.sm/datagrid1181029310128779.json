@@ -1,0 +1,150 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "Audi": "A",
+            "Ford": "F",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "A",
+            "Ford": "F",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "A",
+            "Ford": "F",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "A",
+            "Ford": "F",
+            "Skoda": "skoda.png"
+        }
+    ],
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.table.AndroidTableProperty",
+        "psp": {
+            "gridlineColor": "5c5c5c"
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "cellBorder": "thin solid #5c115c",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Audi",
+            "columnID": "Audi",
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281264"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Ford",
+            "columnID": "Ford",
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281266"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Skoda",
+            "columnID": "Skoda",
+            "columnType": "image",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281268"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2",
+        "col3"
+    ],
+    "columntype": [
+        "text",
+        "text",
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "NewForm2013722173539288",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "counter": 5,
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinecolor": "5c115c",
+    "gridlinestyle": "solid",
+    "headerskin": "s4b5f5627a86414a98f1f574c1abfcc9",
+    "hexpand": true,
+    "id": "datagrid1181029310128779",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.table.IPadTableProperty",
+        "render": true
+    },
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011177",
+    "margininpixel": false,
+    "name": "kony.ui.DataGrid",
+    "paddinginpixel": false,
+    "parent": "vbox192926642422365",
+    "pf": "frmDatagrid",
+    "rowalternateskin": "s361cc340e034b9fb7fffad39d1c3582",
+    "rowcount": 4,
+    "rowfocusskin": "s20aab17440d45069c6e44260e238fda",
+    "rownormalskin": "s361cc340e034b9fb7fffad39d1c3582",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPATableProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPAAndroidTabletTableProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPAIPadTableProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPAWindowsTabletTableProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "DataGrid",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.table.Windows8TableProperty",
+        "render": true
+    }
+}

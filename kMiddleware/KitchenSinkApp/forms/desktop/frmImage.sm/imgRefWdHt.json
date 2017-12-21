@@ -1,0 +1,35 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_skin_": "s2e0fd0ebc6940dd82405e073fb93e0e",
+    "_src_": "kolalala.png",
+    "_text_": "kolalala.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.DesktopWebImage2Property",
+        "render": true
+    },
+    "hexpand": false,
+    "id": "imgRefWdHt",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.KioskImage2Property",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011825",
+    "name": "kony.ui.Image2",
+    "parent": "vbox118290614361940",
+    "pf": "frmImage",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "srcType": 1,
+    "vexpand": false,
+    "wType": "Image",
+    "widgetalignment": 5
+}

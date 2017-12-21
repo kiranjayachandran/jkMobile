@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_orientation_": 1,
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s07168b3fc5c4828982150b6a9606756",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "vbox192735980067334",
+        "vbox192735980042697"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "enablescrollbypage": false,
+    "id": "sboxGlobalHome",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807689",
+    "layoutalignment": 3,
+    "name": "kony.ui.ScrollBox",
+    "parent": "frmScrollBoxMenu",
+    "pf": "frmScrollBoxMenu",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 4,
+    "scrollingevents": null,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAScrollBoxProperty",
+        "psp": {
+            "scrollArrowConfig": [
+                null,
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAIPhoneScrollBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "templateType": "forms",
+    "totalWt": 0,
+    "wType": "ScrollBox",
+    "widgetalignment": 1
+}

@@ -1,0 +1,1 @@
+{"unRegisterAccEvent":{"id":"p2kwiet12581045808119_unRegisterAccEvent_titlebarAction","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"INVOKE_FUNCTION_unRegisterAccEvent","type":"INVOKE_FUNCTION","sequenceKUID":"unRegisterAccEvent","display":"unRegisterAccEvent","inputparams":[],"parentId":null,"callbackType":null}]}}

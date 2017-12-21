@@ -1,0 +1,243 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "image2117989725234759": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "b1.png"
+            },
+            "label117989725234753": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Boys' Felix Sneakers"
+            },
+            "label117989725234760": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Online Price:$10.00"
+            }
+        },
+        {
+            "image2117989725234759": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "b2.png"
+            },
+            "label117989725234753": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Boys DuPont F Sneaker"
+            },
+            "label117989725234760": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Online Price:$15.00"
+            }
+        },
+        {
+            "image2117989725234759": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "b3.png"
+            },
+            "label117989725234753": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Women's Matte Slippers"
+            },
+            "label117989725234760": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Online Price:$8.00"
+            }
+        },
+        {
+            "image2117989725234759": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "b4.png"
+            },
+            "label117989725234753": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Women's Buckle Boots"
+            },
+            "label117989725234760": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Online Price:$20.00"
+            }
+        }
+    ],
+    "_enabled_": false,
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_skin_": "seg2Normal",
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.AndroidSegment2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "dockSectionHeaders": false
+        },
+        "render": true,
+        "viewConfig": {
+            "coverflowConfig": {
+                "isCircular": true
+            }
+        },
+        "viewType": "tableview"
+    },
+    "canUpdateUI": true,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsSegements",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 3,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "p2kwiet125810458010447",
+    "groupcells": true,
+    "hasSections": false,
+    "hiddencolumns": {},
+    "id": "segTableView",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.IPadSegment2Property",
+        "psp": {
+            "bounces": true,
+            "editStyle": "none",
+            "enableDictionary": false,
+            "progressIndicatorColor": "white",
+            "searchCriteria": 1,
+            "showProgressIndicator": true
+        },
+        "render": true,
+        "viewConfig": {
+            "coverflowConfig": {}
+        },
+        "viewType": "tableview"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010366",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmSegmentTablet",
+    "pf": "frmSegmentTablet",
+    "retainselection": true,
+    "rowTemplateId": "p2kwiet125810458010447",
+    "rowcounter": 2,
+    "rowfocusskin": "s3fe1c2ffe1540a7b8dc95584f0064ec",
+    "rowskin": "s1196d1f65ef4fb7b5eadc30eb75ab8c",
+    "screenlevelwidget": false,
+    "scrollingevents": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s5462ca1a65b4017b81fb1440c3c5c08",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": {},
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPASegment2Property"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAAndroidTabletSegment2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAIPadSegment2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAWindowsTabletSegment2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 1,
+    "widgetdatamap": {
+        "hbox117989725234754": "hbox117989725234754",
+        "image2117989725234759": "image2117989725234759",
+        "label117989725234753": "label117989725234753",
+        "label117989725234760": "label117989725234760"
+    },
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.Windows8Segment2Property",
+        "_margin_": [
+            25,
+            0,
+            25,
+            0
+        ],
+        "margin": [
+            25,
+            0,
+            25,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    }
+}

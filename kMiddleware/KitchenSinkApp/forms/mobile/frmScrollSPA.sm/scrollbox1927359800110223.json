@@ -1,0 +1,184 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s07168b3fc5c4828982150b6a9606756",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.AndroidScrollBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_position_": 3,
+        "enableScrollByPage": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "position": 3,
+        "render": true,
+        "showScrollbars": false,
+        "undefined": false
+    },
+    "canUpdateUI": true,
+    "children": [
+        "hbox192735980042706",
+        "lblScroll1"
+    ],
+    "containerheight": 100,
+    "containerheightreference": 1,
+    "containerweight": 61,
+    "enablescrollbypage": false,
+    "id": "scrollbox1927359800110223",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.IPhoneScrollBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_position_": 3,
+        "enableScrollByPage": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "position": 3,
+        "psp": {
+            "bounces": true
+        },
+        "render": true,
+        "showScrollbars": false,
+        "undefined": false
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808364",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.ScrollBox",
+    "paddinginpixel": false,
+    "parent": "hbox1040779646122142",
+    "pf": "frmScrollSPA",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 2,
+    "scrollingevents": null,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAScrollBoxProperty",
+        "psp": {
+            "scrollArrowConfig": [
+                null,
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAAndroidScrollBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPABBScrollBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAIPhoneScrollBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAWinPhone8ScrollBoxProperty",
+        "render": true
+    },
+    "templateType": "forms",
+    "totalWt": 0,
+    "wType": "ScrollBox",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.WinPhone8ScrollBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_position_": 3,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "position": 3,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

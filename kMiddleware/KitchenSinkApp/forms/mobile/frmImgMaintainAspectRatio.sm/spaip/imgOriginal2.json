@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_skin_": "imgSkin",
+    "_src_": "koala_250x200.png",
+    "_text_": "koala_250x200.png",
+    "canUpdateUI": true,
+    "containerweight": 45,
+    "contentalignment": 5,
+    "hexpand": false,
+    "id": "imgOriginal2",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808868",
+    "name": "kony.ui.Image2",
+    "parent": "hbox19338245768",
+    "pf": "frmImgMaintainAspectRatio",
+    "referenceheight": 100,
+    "referencewidth": 200,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAIPhoneImage2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "srcType": 1,
+    "vexpand": false,
+    "wType": "Image",
+    "widgetalignment": 5
+}

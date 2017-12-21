@@ -1,0 +1,137 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s7439d49851e4a0a95f1af3c79a0b919",
+    "_text_": "Please click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.AndroidRichTextProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "richtext118263802475841",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.IPhoneRichTextProperty",
+        "_padding_": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "_wrapping_": 2,
+        "padding": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true,
+        "wrapping": 2
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807497",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "scrollbox1927359800110223",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPARichTextProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPAAndroidRichTextProperty",
+        "_padding_": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "padding": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPABBRichTextProperty",
+        "_padding_": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "padding": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPAIPhoneRichTextProperty",
+        "_padding_": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "padding": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPAWinPhone8RichTextProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.WinPhone8RichTextProperty",
+        "_padding_": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "padding": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_skin_": "s2e0fd0ebc6940dd82405e073fb93e0e",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 49,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.DesktopWebImage2Property",
+        "render": true
+    },
+    "hexpand": false,
+    "id": "image2685080434163634",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.KioskImage2Property",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011910",
+    "margininpixel": false,
+    "name": "kony.ui.Image2",
+    "parent": "hbox685080434163632",
+    "pf": "vbox1258104580847",
+    "referenceheight": 80,
+    "referencewidth": 444,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "srcType": 1,
+    "vexpand": false,
+    "wType": "Image",
+    "widgetalignment": 5
+}

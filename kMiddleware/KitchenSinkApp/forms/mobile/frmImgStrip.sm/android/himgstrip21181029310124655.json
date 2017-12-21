@@ -1,0 +1,115 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "iurl": "frame1.png"
+            },
+            {
+                "iurl": "frame2.png"
+            },
+            {
+                "iurl": "frame3.png"
+            },
+            {
+                "iurl": "frame4.png"
+            },
+            {
+                "iurl": "frame5.png"
+            },
+            {
+                "iurl": "frame6.png"
+            },
+            {
+                "iurl": "frame7.png"
+            },
+            {
+                "iurl": "frame8.png"
+            }
+        ],
+        "iurl"
+    ],
+    "_enabled_": false,
+    "_skin_": "se22788f0b3e4774b5f80f7288e8f2d9",
+    "_text_": "HImageStrip2",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.himagestrip2.AndroidHImageStrip2Property",
+        "_margin_": [
+            12,
+            1,
+            12,
+            20
+        ],
+        "margin": [
+            12,
+            1,
+            12,
+            20
+        ],
+        "marginInPixel": true,
+        "render": true,
+        "spaceBetweenImages": 0,
+        "viewType": "coverflow"
+    },
+    "arrowconfig": {
+        "leftArrowFocusImage": "",
+        "leftArrowImage": "",
+        "rightArrowFocusImage": "",
+        "rightArrowImage": ""
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "count": 0,
+    "focusedindex": null,
+    "focuseditem": null,
+    "hexpand": true,
+    "id": "himgstrip21181029310124655",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806583",
+    "masterdata": [],
+    "name": "kony.ui.HorizontalImageStrip2",
+    "parent": "frmImgStrip",
+    "pf": "frmImgStrip",
+    "referenceheight": 100,
+    "referencewidth": 200,
+    "scrollbounce": true,
+    "selectedindex": null,
+    "selecteditem": null,
+    "showarrows": false,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.himagestrip2.SPAHImageStrip2Property",
+        "spaceBetweenImages": 0,
+        "viewType": "stripview"
+    },
+    "spacebetweenimages": 0,
+    "vexpand": false,
+    "viewconfig": {
+        "coverflowConfig": {
+            "depth": "20",
+            "imageItemRotationAngle": 60,
+            "isCircular": false,
+            "projectionAngle": 0
+        },
+        "slotviewConfig": {
+            "flingVelocity": 10,
+            "flipInterval": 2,
+            "scrollDistance": 10
+        },
+        "stripviewConfig": {
+            "enableScrollBounce": true
+        }
+    },
+    "viewtype": "stripview",
+    "wType": "HStrip",
+    "widgetalignment": 5
+}

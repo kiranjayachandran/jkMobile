@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s4d7c85d0e954cefba60ebaf28240877",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.AndroidSwitchProperty",
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 50,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "switch192920684268097",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.IPhoneSwitchProperty",
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807833",
+    "leftsidetext": "Yes",
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "parent": "hbox192920684268093",
+    "pf": "frmSwitch",
+    "rightsidetext": "No",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPASwitchProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAAndroidSwitchProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPABBSwitchProperty",
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAIPhoneSwitchProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAWinPhone8SwitchProperty",
+        "render": true
+    },
+    "swidth": 165,
+    "vexpand": false,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.WinPhone8SwitchProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            5
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            5
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

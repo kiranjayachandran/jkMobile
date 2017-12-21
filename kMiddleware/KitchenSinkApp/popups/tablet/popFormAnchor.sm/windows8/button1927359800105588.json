@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sdc4690d779b47f5b27d288aacd977c5",
+    "_text_": "Cancel",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sdc4690d779b47f5b27d288aacd977c5",
+    "hexpand": true,
+    "id": "button1927359800105588",
+    "ide_onClick": "p2kwiet125810458012232_button1927359800105588_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012231",
+    "name": "kony.ui.Button",
+    "parent": "popFormAnchor",
+    "pf": "popFormAnchor",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "contentAlignment": 2,
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.Windows8ButtonProperty",
+        "_margin_": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "_padding_": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "contentAlignment": 5,
+        "displayText": true,
+        "margin": [
+            7,
+            4,
+            7,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "paddingInPixel": true,
+        "render": true
+    }
+}

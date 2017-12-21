@@ -1,0 +1,132 @@
+{
+    "DNDConfig": null,
+    "Image": "default.png",
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        1,
+        2,
+        1
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sb88823446e94555ab7eb8e8ca4c9c53",
+    "_text_": "",
+    "advview": "default",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.AndroidDateFieldProperty",
+        "_margin_": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "margin": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false
+        },
+        "render": true,
+        "viewType": "default"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "enddate": [
+        30,
+        8,
+        2013
+    ],
+    "focusskin": "s216667969594b3da564110586d5bbb3",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "",
+    "hexpand": true,
+    "id": "calBDate",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.IPadDateFieldProperty",
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false,
+            "mode": 0
+        },
+        "render": true,
+        "viewType": "default"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011213",
+    "margininpixel": false,
+    "name": "kony.ui.Calendar",
+    "paddinginpixel": false,
+    "pagedate": "8/2013",
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "selectdate": "8/0/2013",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPADateFieldProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAAndroidTabletDateFieldProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAIPadDateFieldProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAWindowsTabletDateFieldProperty",
+        "render": true
+    },
+    "startdate": [
+        1,
+        8,
+        2013
+    ],
+    "vexpand": false,
+    "viewconfig": {
+        "gridConfig": {
+            "allowWeekendSelectable": true,
+            "leftNavigationImage": "",
+            "rightNavigationImage": ""
+        }
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.Windows8DateFieldProperty",
+        "_margin_": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "margin": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "marginInPixel": false,
+        "render": false,
+        "viewType": "default"
+    }
+}

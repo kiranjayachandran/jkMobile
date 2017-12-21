@@ -1,0 +1,195 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_resize_": true,
+    "activefocusskin": "s8a6d82c72214d9790b02565fb329343",
+    "activeskin": "s6264950df2243628d383d8fc6801a4d",
+    "activetab": 2,
+    "activetabs": [],
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.AndroidTabPaneProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "tabHeaderHeight": 64
+        },
+        "render": true,
+        "viewType": "tabview"
+    },
+    "canUpdateUI": true,
+    "children": [
+        "tab193203698711086",
+        "tab193203698711107",
+        "tab193203698711163"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsTab",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": true
+    },
+    "focusskin": "tabFocus",
+    "id": "tabpane193203698711085",
+    "imageposition": "right",
+    "inactiveskin": "sbb10cbea32e4c9e94a2a23d4a195561",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.IPadTabPaneProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "progressIndicatorColor": "white",
+            "showProgressIndicator": "false"
+        },
+        "render": true,
+        "viewType": "tabview"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011108",
+    "margininpixel": false,
+    "name": "kony.ui.TabPane",
+    "paddinginpixel": false,
+    "parent": "vbox193203698711084",
+    "pf": "frmTabPane",
+    "screenlevelwidget": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPATabPaneProperty",
+        "viewType": "tabview"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAAndroidTabletTabPaneProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAIPadTabPaneProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAWindowsTabletTabPaneProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "tabnamealignment": "left",
+    "templateType": "forms",
+    "toggletabs": false,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "imagePosition": "right",
+            "tabNameAlignment": "left",
+            "toggleTabs": false
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerContainerWeight": "",
+            "headerPosition": "top",
+            "image1": "",
+            "image2": ""
+        }
+    },
+    "wType": "TabPane",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.Windows8TabPaneProperty",
+        "_margin_": [
+            1,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            1,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true,
+        "viewType": "tabview"
+    }
+}

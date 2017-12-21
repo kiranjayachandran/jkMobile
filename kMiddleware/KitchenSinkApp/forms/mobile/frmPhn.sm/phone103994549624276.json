@@ -1,0 +1,211 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s42cfa4e974d440fa406e64f77f2f114",
+    "_text_": "123-456-7890",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.call.AndroidCallProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            3,
+            11,
+            3,
+            11
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            11,
+            3,
+            11
+        ],
+        "paddingInPixel": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "focusskin": "sd2ffb857f1c4048a53f874a3aa74fa0",
+    "hexpand": true,
+    "id": "phone103994549624276",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.call.IPhoneCallProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            3,
+            10,
+            3,
+            10
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            10,
+            3,
+            10
+        ],
+        "paddingInPixel": true,
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806651",
+    "name": "kony.ui.Phone",
+    "parent": "frmPhn",
+    "pf": "frmPhn",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.call.SPACallProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.call.SPAAndroidCallProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            3,
+            1,
+            3
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.call.SPABBCallProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.call.SPAIPhoneCallProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            3,
+            1,
+            3
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.call.SPAWinPhone8CallProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Phone",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.call.WinPhone8CallProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

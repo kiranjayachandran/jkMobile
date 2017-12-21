@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        2,
+        1,
+        2
+    ],
+    "_render_": true,
+    "_skin_": "s7439d49851e4a0a95f1af3c79a0b919",
+    "_text_": "Please click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.\nYou can scroll in vertical direction by swiping your hand bottom to top / top to bottom.\nPlease click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.\nYou can scroll in vertical direction by swiping your hand bottom to top / top to bottom.",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.AndroidRichTextProperty",
+        "_padding_": [
+            2,
+            2,
+            1,
+            2
+        ],
+        "padding": [
+            2,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "richtext118263802475841",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010154",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "scrollbox1927359800110223",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPARichTextProperty"
+    },
+    "vexpand": false,
+    "wType": "RichText",
+    "widgetalignment": 5
+}

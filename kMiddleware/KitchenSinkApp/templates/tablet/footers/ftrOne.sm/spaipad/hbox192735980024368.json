@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_orientation_": 1,
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "sef853a25d69459cbbc8e1250533d0ba",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "image211798972521173"
+    ],
+    "containerweight": 100,
+    "focusskin": "sef853a25d69459cbbc8e1250533d0ba",
+    "id": "hbox192735980024368",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012324",
+    "layoutalignment": 3,
+    "name": "kony.ui.Box",
+    "parent": "ftrOne",
+    "pf": "ftrOne",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAHBoxProperty"
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAIPadHBoxProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "templateType": "forms",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

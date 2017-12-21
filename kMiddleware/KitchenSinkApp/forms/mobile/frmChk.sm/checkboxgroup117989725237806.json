@@ -1,0 +1,247 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_orientation_": "vertical",
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sebbdd73d62a458794c342114dace265",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.AndroidCheckBoxProperty",
+        "_margin_": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "_padding_": [
+            0,
+            4,
+            2,
+            4
+        ],
+        "itemOrientation": "vertical",
+        "margin": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "marginInPixel": true,
+        "padding": [
+            0,
+            4,
+            2,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": false,
+        "tickedImage": "chkboxchkd.png",
+        "untickedImage": "chkbox.png"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusskin": "sebbdd73d62a458794c342114dace265",
+    "id": "checkboxgroup117989725237806",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.IPhoneCheckBoxProperty",
+        "_margin_": [
+            6,
+            6,
+            12,
+            6
+        ],
+        "margin": [
+            6,
+            6,
+            12,
+            6
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "groupCells": false,
+            "viewType": 4
+        },
+        "render": false,
+        "tickedImage": "chkboxchkd.png",
+        "untickedImage": "chkbox.png"
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "p2kwiet12581045807850",
+    "masterdata": [
+        [
+            "1",
+            "value1"
+        ],
+        [
+            "2",
+            "value2"
+        ],
+        [
+            "3",
+            "value3"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "paddinginpixel": false,
+    "parent": "frmChk",
+    "pf": "frmChk",
+    "selectedkey": null,
+    "selectedkeys": [
+        "1"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPACheckBoxProperty",
+        "itemOrientation": "vertical"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPAAndroidCheckBoxProperty",
+        "_margin_": [
+            2,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPABBCheckBoxProperty",
+        "_margin_": [
+            2,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPAIPhoneCheckBoxProperty",
+        "_margin_": [
+            2,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPAWinPhone8CheckBoxProperty",
+        "render": true
+    },
+    "tickedimage": "chkboxchkd.png",
+    "untickedimage": "chkbox.png",
+    "vexpand": false,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 4,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.WinPhone8CheckBoxProperty",
+        "_margin_": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "itemOrientation": "vertical",
+        "margin": [
+            12,
+            6,
+            12,
+            6
+        ],
+        "marginInPixel": true,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true,
+        "tickedImage": "chkboxchkd.png",
+        "untickedImage": "chkbox.png"
+    }
+}

@@ -1,0 +1,1 @@
+{"p2kwiet12581045809559_objectselector3D_onClick_seq0":{"id":"p2kwiet12581045809559_objectselector3D_onClick_seq0","type":"ACTION_SEQUENCE","actions":[{"id":"customcode_onClick_1620312581045809910","type":"INVOKE_FUNCTION","sequenceKUID":"getSelected3DOS","display":"getSelected3DOS"}]}}

@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_skin_": "sdc4690d779b47f5b27d288aacd977c5",
+    "_text_": "Cancel",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.DesktopWebButtonProperty",
+        "_margin_": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "contentAlignment": 2,
+        "displayText": true,
+        "margin": [
+            3,
+            2,
+            3,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "displaytext": true,
+    "focusskin": "sec3c4b5e896469cb6573beb06740428",
+    "hexpand": true,
+    "id": "button1927359800105588",
+    "ide_onClick": "p2kwiet125810458012254_button1927359800105588_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012253",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "popFormAnchor",
+    "pf": "popFormAnchor",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "contentAlignment": 2,
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

@@ -1,0 +1,78 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        4,
+        0,
+        4,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa8b04f8c1a2462cae11ce9ee8124c25",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.AndroidSwitchProperty",
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 40,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "switch1930135169601300",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.IPadSwitchProperty",
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010217",
+    "leftsidetext": "Yes",
+    "margininpixel": false,
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "paddinginpixel": false,
+    "parent": "hbox1930135169601296",
+    "pf": "frmSwitch",
+    "rightsidetext": "No",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPASwitchProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAAndroidTabletSwitchProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAIPadSwitchProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAWindowsTabletSwitchProperty",
+        "render": true
+    },
+    "swidth": 165,
+    "vexpand": false,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.Windows8SwitchProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    }
+}

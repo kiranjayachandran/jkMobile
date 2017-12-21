@@ -1,0 +1,1 @@
+{"p2kwiet125810458011427_hisDefault_onSelection_seq0":{"id":"p2kwiet125810458011427_hisDefault_onSelection_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onSelection_2943512581045805465","type":"INVOKE_FUNCTION","sequenceKUID":"hIS","display":"hIS","inputparams":[{"name":"eventobj","value":" eventobject"}]}]}}

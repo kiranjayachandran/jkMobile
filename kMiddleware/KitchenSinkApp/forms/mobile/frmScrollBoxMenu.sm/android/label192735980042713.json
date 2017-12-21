@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sf673c8b156147b1a57eef3b501b9111",
+    "_text_": "Share",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "_margin_": [
+            10,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            6,
+            15,
+            6,
+            15
+        ],
+        "contentAlignment": 1,
+        "margin": [
+            10,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": false,
+        "padding": [
+            6,
+            15,
+            6,
+            15
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 34,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "label192735980042713",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807562",
+    "name": "kony.ui.Label",
+    "parent": "hbox192735980042710",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

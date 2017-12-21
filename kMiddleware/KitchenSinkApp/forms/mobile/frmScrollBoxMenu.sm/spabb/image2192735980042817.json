@@ -1,0 +1,44 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_skin_": "s2e0fd0ebc6940dd82405e073fb93e0e",
+    "_src_": "messages.png",
+    "_text_": "messages.png",
+    "canUpdateUI": true,
+    "containerweight": 24,
+    "contentalignment": 5,
+    "hexpand": false,
+    "id": "image2192735980042817",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807766",
+    "name": "kony.ui.Image2",
+    "parent": "hbox192735980042815",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPABBImage2Property",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "srcType": 1,
+    "vexpand": false,
+    "wType": "Image",
+    "widgetalignment": 5
+}

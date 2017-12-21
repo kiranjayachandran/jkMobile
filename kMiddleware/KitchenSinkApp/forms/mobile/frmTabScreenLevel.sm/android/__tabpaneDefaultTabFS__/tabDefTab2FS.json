@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_image_": "",
+    "_orientation_": 0,
+    "_percent_": true,
+    "_position_": 3,
+    "_render_": true,
+    "_skin_": "s9c3d768de4e4ae096fa786922c6b01f",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.AndroidTabProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [
+        "richtextDefTab3FS",
+        "image21181029310130216"
+    ],
+    "containerweight": 100,
+    "id": "tabDefTab2FS",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806364",
+    "layoutalignment": 0,
+    "name": "kony.ui.Tab",
+    "oninit": null,
+    "parent": "tabpaneDefaultTabFS",
+    "pf": "frmTabScreenLevel",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPATabProperty"
+    },
+    "spacing": 1,
+    "tabname": "Tab3",
+    "tabpaneId": "tabpaneDefaultTabFS",
+    "wType": "Tab",
+    "widgetalignment": 1
+}

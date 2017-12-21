@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "sb534337cb6643d688f87c73270f404b",
+    "_text_": "Basic widgets",
+    "canUpdateUI": true,
+    "containerweight": 82,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "sb534337cb6643d688f87c73270f404b",
+    "hexpand": true,
+    "id": "btnBasicWidTab",
+    "ide_onClick": "p2kwiet125810458010894_btnBasicWidTab_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010881",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox192926642421598",
+    "pf": "frmUInterface",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.Windows8ButtonProperty",
+        "_padding_": [
+            5,
+            0,
+            0,
+            0
+        ],
+        "contentAlignment": 4,
+        "displayText": true,
+        "padding": [
+            5,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    }
+}

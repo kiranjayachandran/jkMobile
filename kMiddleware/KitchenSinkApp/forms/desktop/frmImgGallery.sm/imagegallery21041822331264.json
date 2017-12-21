@@ -1,0 +1,88 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "iurl": "b1.png"
+            },
+            {
+                "iurl": "b2.png"
+            },
+            {
+                "iurl": "b3.png"
+            },
+            {
+                "iurl": "b4.png"
+            },
+            {
+                "iurl": "b5.png"
+            },
+            {
+                "iurl": "b6.png"
+            }
+        ],
+        "iurl"
+    ],
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        0,
+        2
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s053517dbe954686b59291d0bf6c4ba8",
+    "_text_": "ImageGallery2",
+    "canUpdateUI": true,
+    "containerweight": 70,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.DesktopWebImageGallery2Property",
+        "psp": {
+            "viewType": "default"
+        },
+        "render": true,
+        "spaceBetweenImages": 4
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "hexpand": true,
+    "id": "imagegallery21041822331264",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.KioskImageGallery2Property",
+        "render": true,
+        "spaceBetweenImages": 0
+    },
+    "kuid": "p2kwiet125810458011578",
+    "margininpixel": false,
+    "name": "kony.ui.ImageGallery2",
+    "noofrowsperpage": 1,
+    "paddinginpixel": false,
+    "parent": "hbox68508043456328",
+    "pf": "frmImgGallery",
+    "referenceheight": 120,
+    "referencewidth": 180,
+    "selectedindex": null,
+    "selecteditem": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.SPAImageGallery2Property"
+    },
+    "spacebetweenimages": 0,
+    "vexpand": false,
+    "wType": "IGallery",
+    "widgetalignment": 5
+}

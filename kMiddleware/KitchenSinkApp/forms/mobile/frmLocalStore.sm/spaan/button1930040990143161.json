@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "s87b0d400dad44f596b3eef51b2e9317",
+    "_text_": "GetItem",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ad12fd924b4f9aa693a8f4a8fdf79f",
+    "hexpand": true,
+    "id": "button1930040990143161",
+    "ide_onClick": "p2kwiet12581045809441_button1930040990143161_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045809413",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox1930040990143159",
+    "pf": "frmLocalStore",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidButtonProperty",
+        "_padding_": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "padding": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

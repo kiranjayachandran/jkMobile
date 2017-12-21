@@ -1,0 +1,89 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_resize_": true,
+    "_skin_": "s6fc5e0f4c69484c8e8ee5f9c47fcecc",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.AndroidVBoxProperty",
+        "render": true
+    },
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "label118082077326306",
+        "label1927359800122440",
+        "label1927359800122460",
+        "label1927359800122464",
+        "label1927359800122474",
+        "label118082077326372",
+        "label118082077326380",
+        "label118082077326390",
+        "label118085056438701",
+        "label118085056438711",
+        "label118085056438725",
+        "label118085056438739",
+        "label118085056438863",
+        "label118085056438877",
+        "label118082077326307",
+        "label118082077326320",
+        "label118082077326326",
+        "label118082077326332",
+        "label118082077326338",
+        "label118082077326344",
+        "label118082077326350",
+        "label118082077326358",
+        "label118082077326364",
+        "label1181029310129190",
+        "label1181029310129205"
+    ],
+    "containerweight": 100,
+    "id": "vbox192926642422365",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.IPadVBoxProperty",
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045809686",
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "hbxLabels",
+    "pf": "frmLabels",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAAndroidTabletVBoxProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAIPadVBoxProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAWindowsTabletVBoxProperty",
+        "render": true
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.Windows8VBoxProperty",
+        "render": true
+    }
+}

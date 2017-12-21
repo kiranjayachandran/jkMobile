@@ -1,0 +1,119 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "iurl": "b1.png"
+            },
+            {
+                "iurl": "b2.png"
+            },
+            {
+                "iurl": "b3.png"
+            },
+            {
+                "iurl": "b4.png"
+            },
+            {
+                "iurl": "b5.png"
+            },
+            {
+                "iurl": "b6.png"
+            }
+        ],
+        "iurl"
+    ],
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0e51e2d2eea4549b8724b4cdc891959",
+    "_text_": "ImageGallery2",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.AndroidImageGallery2Property",
+        "render": false,
+        "spaceBetweenImages": 0
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "focusskin": "s0e51e2d2eea4549b8724b4cdc891959",
+    "hexpand": true,
+    "id": "imagegallery21928377500551127",
+    "imagescalemode": 1,
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.IPadImageGallery2Property",
+        "render": false,
+        "spaceBetweenImages": 0
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010228",
+    "margininpixel": false,
+    "name": "kony.ui.ImageGallery2",
+    "noofrowsperpage": 1,
+    "paddinginpixel": false,
+    "parent": "hbox1928377500551117",
+    "pf": "frmImgGallery",
+    "referenceheight": 120,
+    "referencewidth": 180,
+    "selectedindex": null,
+    "selecteditem": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.SPAImageGallery2Property"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.SPAAndroidTabletImageGallery2Property",
+        "render": true,
+        "spaceBetweenImages": 0
+    },
+    "spacebetweenimages": 0,
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.SPAIPadImageGallery2Property",
+        "render": true,
+        "spaceBetweenImages": 0
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.SPAWindowsTabletImageGallery2Property",
+        "render": true,
+        "spaceBetweenImages": 0
+    },
+    "vexpand": false,
+    "wType": "IGallery",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.Windows8ImageGallery2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": false,
+        "spaceBetweenImages": 0
+    }
+}

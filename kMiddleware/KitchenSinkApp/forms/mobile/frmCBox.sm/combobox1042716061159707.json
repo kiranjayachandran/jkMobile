@@ -1,0 +1,226 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s323da10e2fd40ea9e393c66474e0f01",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.AndroidComboBoxProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s323da10e2fd40ea9e393c66474e0f01",
+    "hexpand": true,
+    "id": "combobox1042716061159707",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.IPhoneComboBoxProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "groupCells": false,
+            "viewConfig": {
+                "toggleViewConfig": {
+                    "enableTintColor": false,
+                    "equalSegments": true,
+                    "tintColor": "0000ff00",
+                    "viewStyle": 1
+                }
+            },
+            "viewType": 2
+        },
+        "render": false
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045809628",
+    "masterdata": [
+        [
+            "1",
+            "value1"
+        ],
+        [
+            "2",
+            "value2"
+        ],
+        [
+            "3",
+            "value3"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "parent": "frmCBox",
+    "pf": "frmCBox",
+    "selectedkey": "",
+    "selectedkeyvalue": [],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAAndroidComboBoxProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPABBComboBoxProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAIPhoneComboBoxProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAWinPhone8ComboBoxProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.WinPhone8ComboBoxProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": false
+    }
+}

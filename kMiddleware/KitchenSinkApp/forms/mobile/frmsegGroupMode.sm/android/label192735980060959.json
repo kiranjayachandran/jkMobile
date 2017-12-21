@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "se26b7a272ec4aedb6f4d25c19edf400",
+    "_text_": "Segment with group cells",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "_padding_": [
+            6,
+            15,
+            6,
+            15
+        ],
+        "contentAlignment": 1,
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            6,
+            15,
+            6,
+            15
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "label192735980060959",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806984",
+    "name": "kony.ui.Label",
+    "parent": "frmsegGroupMode",
+    "pf": "frmsegGroupMode",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

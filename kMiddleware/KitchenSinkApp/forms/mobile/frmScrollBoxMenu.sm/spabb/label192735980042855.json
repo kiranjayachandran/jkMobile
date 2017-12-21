@@ -1,0 +1,50 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sf673c8b156147b1a57eef3b501b9111",
+    "_text_": "Events",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 76,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "label192735980042855",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807773",
+    "name": "kony.ui.Label",
+    "parent": "hbox192735980042851",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPABBLabelProperty",
+        "_padding_": [
+            5,
+            2,
+            1,
+            2
+        ],
+        "padding": [
+            5,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

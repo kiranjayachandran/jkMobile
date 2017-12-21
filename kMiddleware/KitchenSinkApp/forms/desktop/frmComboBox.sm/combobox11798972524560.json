@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sc28b7332b96491b8043f6a32c78268f",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 70,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.DesktopWebComboBoxProperty",
+        "psp": {
+            "autoSuggest": false,
+            "viewType": 0
+        },
+        "render": true
+    },
+    "focusskin": "scbcf01812ed4c10a5c47b9e265829d4",
+    "hexpand": true,
+    "id": "combobox11798972524560",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.KioskComboBoxProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011613",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "1",
+            "value1"
+        ],
+        [
+            "2",
+            "value2"
+        ],
+        [
+            "3",
+            "value3"
+        ],
+        [
+            "4",
+            "value4"
+        ],
+        [
+            "5",
+            "value5"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "paddinginpixel": false,
+    "parent": "hbox68508043411769",
+    "pf": "frmComboBox",
+    "selectedkey": "",
+    "selectedkeyvalue": [],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 1
+}

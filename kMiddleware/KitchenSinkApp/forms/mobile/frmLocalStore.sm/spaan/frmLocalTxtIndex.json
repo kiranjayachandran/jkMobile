@@ -1,0 +1,83 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "Key",
+    "_skin_": "s63ab27d687f4727ac5b34a5eafddd61",
+    "_text_": "",
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheightmode": 1,
+    "containerheightreference": 1,
+    "containerweight": 47,
+    "contentalignment": 4,
+    "focusskin": "s63ab27d687f4727ac5b34a5eafddd61",
+    "hexpand": true,
+    "id": "frmLocalTxtIndex",
+    "info": null,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "p2kwiet12581045809426",
+    "margininpixel": false,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "hbox1930040990143563",
+    "pf": "frmLocalStore",
+    "securetextentry": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPATextBox2Property",
+        "autoCorrect": false,
+        "containerHeightMode": 3
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPAAndroidTextBox2Property",
+        "_margin_": [
+            0,
+            0,
+            2,
+            0
+        ],
+        "_padding_": [
+            2,
+            3,
+            0,
+            3
+        ],
+        "margin": [
+            0,
+            0,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            3,
+            0,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextField",
+    "widgetalignment": 5
+}

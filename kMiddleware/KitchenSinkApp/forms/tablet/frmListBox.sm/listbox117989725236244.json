@@ -1,0 +1,104 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sae5cd1d1b804aa3aa8cf5a5c2bb466c",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.AndroidListBoxProperty",
+        "psp": {
+            "applySkinsToPopup": true,
+            "popupTitle": "Please Select"
+        },
+        "render": true,
+        "viewType": 4
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusskin": "s7020705574d4340b86c43ed89f10e46",
+    "hexpand": true,
+    "id": "listbox117989725236244",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.IPadListBoxProperty",
+        "psp": {
+            "groupCells": false
+        },
+        "render": false,
+        "viewType": 0
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010988",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "1",
+            "value1"
+        ],
+        [
+            "2",
+            "value2"
+        ],
+        [
+            "3",
+            "value3"
+        ],
+        [
+            "4",
+            "value4"
+        ],
+        [
+            "5",
+            "value5"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "vbox192926642422365",
+    "pf": "frmListBox",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "value1"
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAListBoxProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAAndroidTabletListBoxProperty",
+        "render": false
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAIPadListBoxProperty",
+        "render": false
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAWindowsTabletListBoxProperty",
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "ListBox",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.Windows8ListBoxProperty",
+        "render": false
+    }
+}

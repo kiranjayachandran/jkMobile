@@ -1,0 +1,48 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s535daf537a14693a9a18b6767ba0731",
+    "_text_": "<p>KonyOne provides a world-class development environment and mobile middleware for both business & consumer applications. KonyOne incorporates industry - tested scalability and supports every technology and deployment option available today - including truly native apps on all native OSs, thousands of devices including those with HTML5 capable browser, SPAs,Wrappers, Hybrids, and traditional URL-based applications.</p>",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.DesktopWebRichTextProperty",
+        "render": true
+    },
+    "hexpand": true,
+    "id": "richtext193203698715951",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.KioskRichTextProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012005",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "tab193203698715949",
+    "pf": "frmTabPane",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPARichTextProperty"
+    },
+    "tabpaneId": "tabpane193203698715943",
+    "vexpand": false,
+    "wType": "RichText",
+    "widgetalignment": 5
+}

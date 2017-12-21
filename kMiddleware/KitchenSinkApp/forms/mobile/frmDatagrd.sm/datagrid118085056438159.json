@@ -1,0 +1,286 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        }
+    ],
+    "_enabled_": false,
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.table.AndroidTableProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "gridlineColor": "5c5c5c"
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "cellBorder": "thin solid #5c115c",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Audi",
+            "columnID": "Audi",
+            "columnType": "image",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281213"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Ford",
+            "columnID": "Ford",
+            "columnType": "image",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281215"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Skoda",
+            "columnID": "Skoda",
+            "columnType": "image",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281217"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2",
+        "col3"
+    ],
+    "columntype": [
+        "text",
+        "text",
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "NewForm2013722173539288",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "counter": 5,
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinecolor": "5c115c",
+    "gridlinestyle": "solid",
+    "headerskin": "s4b5f5627a86414a98f1f574c1abfcc9",
+    "hexpand": true,
+    "id": "datagrid118085056438159",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.table.IPhoneTableProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "paddingInPixel": true,
+        "render": true
+    },
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807906",
+    "name": "kony.ui.DataGrid",
+    "parent": "frmDatagrd",
+    "pf": "frmDatagrd",
+    "rowalternateskin": "s361cc340e034b9fb7fffad39d1c3582",
+    "rowcount": 4,
+    "rowfocusskin": "s20aab17440d45069c6e44260e238fda",
+    "rownormalskin": "s361cc340e034b9fb7fffad39d1c3582",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPATableProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPAAndroidTableProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPABBTableProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPAIPhoneTableProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPAWinPhone8TableProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "DataGrid",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.table.WinPhone8TableProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "_padding_": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

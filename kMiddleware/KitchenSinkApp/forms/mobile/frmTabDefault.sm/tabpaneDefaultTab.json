@@ -1,0 +1,278 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_orientation_": 1,
+    "_percent_": true,
+    "_render_": true,
+    "_resize_": true,
+    "activefocusskin": "s8a6d82c72214d9790b02565fb329343",
+    "activeskin": "s6264950df2243628d383d8fc6801a4d",
+    "activetab": 2,
+    "activetabs": [],
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.AndroidTabPaneProperty",
+        "_margin_": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "tabHeaderHeight": 64
+        },
+        "render": true,
+        "viewType": "tabview"
+    },
+    "canUpdateUI": true,
+    "children": [
+        "tabDefaultTab",
+        "tabDefTab1",
+        "tabDefTab2"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsTab",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": true
+    },
+    "id": "tabpaneDefaultTab",
+    "imageposition": "right",
+    "inactiveskin": "sbb10cbea32e4c9e94a2a23d4a195561",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.IPhoneTabPaneProperty",
+        "_margin_": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "progressIndicatorColor": "white",
+            "showProgressIndicator": "false"
+        },
+        "render": true,
+        "viewType": "tabview"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808744",
+    "name": "kony.ui.TabPane",
+    "parent": "frmTabDefault",
+    "pf": "frmTabDefault",
+    "screenlevelwidget": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPATabPaneProperty",
+        "viewType": "tabview"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAAndroidTabPaneProperty",
+        "_margin_": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPABBTabPaneProperty",
+        "_margin_": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAIPhoneTabPaneProperty",
+        "_margin_": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            2,
+            4,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAWinPhone8TabPaneProperty",
+        "_margin_": [
+            7,
+            13,
+            7,
+            7
+        ],
+        "margin": [
+            7,
+            13,
+            7,
+            7
+        ],
+        "marginInPixel": true,
+        "render": true
+    },
+    "tabnamealignment": "left",
+    "templateType": "forms",
+    "toggletabs": false,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "imagePosition": "right",
+            "tabNameAlignment": "left",
+            "toggleTabs": false
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerContainerWeight": "50",
+            "headerPosition": "top",
+            "image1": "",
+            "image2": ""
+        }
+    },
+    "wType": "TabPane",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.WinPhone8TabPaneProperty",
+        "_margin_": [
+            2,
+            6,
+            2,
+            2
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            2,
+            6,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true,
+        "viewType": "tabview"
+    }
+}

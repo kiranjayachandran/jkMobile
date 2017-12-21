@@ -1,0 +1,1 @@
+{"p2kwiet12581045809564_segStates_onPull_seq0":{"id":"p2kwiet12581045809564_segStates_onPull_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onPull_473512581045808203","type":"INVOKE_FUNCTION","sequenceKUID":"refresh","display":"refresh","inputparams":[{"name":"seguiWidget","value":"eventobject"}]}]}}

@@ -1,0 +1,1 @@
+{"p2kwiet125810458010181_frmScrollBoxMenu_init_seq0":{"id":"p2kwiet125810458010181_frmScrollBoxMenu_init_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"},{"name":"neworientation","value":"neworientation"}],"actions":[{"id":"customcode_init_6705312581045806745","type":"INVOKE_FUNCTION","sequenceKUID":"setScrollBox","display":"setScrollBox"}]}}

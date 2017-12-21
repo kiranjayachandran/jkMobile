@@ -1,0 +1,86 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3.69%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": "vertical",
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "-1%"
+    },
+    "_skin_": "s231c8fba00144bba5ac6e14a8191b4d",
+    "_top_": {
+        "type": "string",
+        "value": "62.41%"
+    },
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.AndroidCheckBoxProperty",
+        "tickedImage": "check_btn_f.png",
+        "untickedImage": "check_btn.png"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "groupcells": false,
+    "id": "chkBoxRemeber",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.IPhoneCheckBoxProperty",
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "2ebbad319207446e944a0f79c7a74977",
+    "masterdata": [
+        [
+            "cbg1",
+            "Remember Me"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "onselection": "AS_CheckBoxGroup_5292d8b5dcdf4265ac8433e5b756f442",
+    "orientation": "vertical",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "selectedkey": null,
+    "selectedkeys": [],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

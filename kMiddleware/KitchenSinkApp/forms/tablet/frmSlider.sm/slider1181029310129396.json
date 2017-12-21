@@ -1,0 +1,82 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_max_": 100,
+    "_min_": 0,
+    "_orientation_": "horizontal",
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_step_": 20,
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.AndroidSliderProperty",
+        "maxLabel": "100",
+        "minLabel": "0",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "slider1181029310129396",
+    "imgwt": 44,
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.IPadSliderProperty",
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010651",
+    "leftskin": "s85e295b2ec04a91bd7ca135b13d69b3",
+    "margininpixel": false,
+    "name": "kony.ui.Slider",
+    "noofsteps": 100,
+    "paddinginpixel": false,
+    "parent": "vbox192926642422365",
+    "pf": "frmSlider",
+    "rightskin": "sc9ba0fa5a214671a60edfdeb5a8a9f4",
+    "selectedvalue": 20,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty",
+        "_thickness_": 5,
+        "thickness": 5
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAAndroidTabletSliderProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAIPadSliderProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAWindowsTabletSliderProperty",
+        "render": true
+    },
+    "stepwidth": 0,
+    "vexpand": false,
+    "view": "default",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.Windows8SliderProperty",
+        "leftSkin": "sa81aaa74b3b4e98ab9058a5c921db0b",
+        "maxLabel": "100",
+        "minLabel": "0",
+        "render": true,
+        "rightSkin": "sda63921ee44489ca2ac0ce9f6d5d283"
+    }
+}

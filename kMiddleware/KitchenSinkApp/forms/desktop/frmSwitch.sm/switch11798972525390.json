@@ -1,0 +1,49 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        4,
+        0,
+        4,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sedd234a1fd24e55b7db7837b8f42464",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 20,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.DesktopWebSwitchProperty",
+        "render": true
+    },
+    "hexpand": true,
+    "id": "switch11798972525390",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.KioskSwitchhProperty",
+        "render": false
+    },
+    "kuid": "p2kwiet125810458011564",
+    "leftsidetext": "ON",
+    "margininpixel": false,
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "paddinginpixel": false,
+    "parent": "hbox11798972525384",
+    "pf": "frmSwitch",
+    "rightsidetext": "OFF",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPASwitchProperty"
+    },
+    "swidth": 165,
+    "vexpand": false,
+    "wType": "Switch",
+    "widgetalignment": 1
+}

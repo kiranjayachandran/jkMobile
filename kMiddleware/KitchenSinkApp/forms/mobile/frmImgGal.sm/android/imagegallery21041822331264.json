@@ -1,0 +1,80 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "iurl": "b1.png"
+            },
+            {
+                "iurl": "b2.png"
+            },
+            {
+                "iurl": "b3.png"
+            },
+            {
+                "iurl": "b4.png"
+            },
+            {
+                "iurl": "b5.png"
+            },
+            {
+                "iurl": "b6.png"
+            }
+        ],
+        "iurl"
+    ],
+    "_enabled_": false,
+    "_skin_": "s6ada590e3424919a22c4e03fe6afda8",
+    "_text_": "ImageGallery2",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.AndroidImageGallery2Property",
+        "_margin_": [
+            6,
+            0,
+            6,
+            0
+        ],
+        "margin": [
+            6,
+            0,
+            6,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true,
+        "spaceBetweenImages": 100
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "hexpand": true,
+    "id": "imagegallery21041822331264",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807257",
+    "name": "kony.ui.ImageGallery2",
+    "noofrowsperpage": 1,
+    "parent": "frmImgGal",
+    "pf": "frmImgGal",
+    "referenceheight": 100,
+    "referencewidth": 200,
+    "selectedindex": null,
+    "selecteditem": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.imagegallery2.SPAImageGallery2Property",
+        "spaceBetweenImages": 0
+    },
+    "spacebetweenimages": 0,
+    "vexpand": false,
+    "wType": "IGallery",
+    "widgetalignment": 5
+}

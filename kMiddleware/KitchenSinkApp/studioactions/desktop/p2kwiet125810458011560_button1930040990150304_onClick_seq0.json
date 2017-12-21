@@ -1,0 +1,1 @@
+{"p2kwiet125810458011560_button1930040990150304_onClick_seq0":{"id":"p2kwiet125810458011560_button1930040990150304_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_294312581045809039","type":"INVOKE_FUNCTION","sequenceKUID":"getCurrentAdress","display":"getCurrentAdress"}]}}

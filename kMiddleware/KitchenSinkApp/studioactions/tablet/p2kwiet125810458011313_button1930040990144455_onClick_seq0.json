@@ -1,0 +1,1 @@
+{"p2kwiet125810458011313_button1930040990144455_onClick_seq0":{"id":"p2kwiet125810458011313_button1930040990144455_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_71419125810458056","type":"INVOKE_FUNCTION","sequenceKUID":"ClearItem","display":"ClearItem"}]}}

@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_image_": "",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_render_": true,
+    "_skin_": "s9c3d768de4e4ae096fa786922c6b01f",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.AndroidTabProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [
+        "richtext192926642422130"
+    ],
+    "containerweight": 100,
+    "id": "tab193203698715270",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.IPadTabProperty",
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011147",
+    "layoutalignment": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "oninit": null,
+    "paddinginpixel": false,
+    "parent": "tabpane193203698715260",
+    "pf": "frmTabPane",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPATabProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPAAndroidTabletTabProperty",
+        "render": true
+    },
+    "spacing": 1,
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPAIPadTabProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPAWindowsTabletTabProperty",
+        "render": true
+    },
+    "tabname": "Tab3",
+    "tabpaneId": "tabpane193203698715260",
+    "wType": "Tab",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.Windows8TabProperty",
+        "render": true
+    }
+}

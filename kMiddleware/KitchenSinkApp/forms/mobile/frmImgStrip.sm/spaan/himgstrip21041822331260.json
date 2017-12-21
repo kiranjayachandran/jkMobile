@@ -1,0 +1,125 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "iurl": "b1.png"
+            },
+            {
+                "iurl": "b2.png"
+            },
+            {
+                "iurl": "b3.png"
+            },
+            {
+                "iurl": "b4.png"
+            },
+            {
+                "iurl": "b5.png"
+            },
+            {
+                "iurl": "b6.png"
+            },
+            {
+                "iurl": "b7.png"
+            }
+        ],
+        "iurl"
+    ],
+    "_enabled_": false,
+    "_skin_": "se22788f0b3e4774b5f80f7288e8f2d9",
+    "_text_": "HImageStrip2",
+    "arrowconfig": {
+        "leftArrowFocusImage": "",
+        "leftArrowImage": "",
+        "rightArrowFocusImage": "",
+        "rightArrowImage": ""
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "count": 0,
+    "focusedindex": null,
+    "focuseditem": null,
+    "hexpand": true,
+    "id": "himgstrip21041822331260",
+    "ide_onSelection": "p2kwiet12581045806617_himgstrip21041822331260_onSelection_seq0",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806612",
+    "masterdata": [],
+    "name": "kony.ui.HorizontalImageStrip2",
+    "parent": "frmImgStrip",
+    "pf": "frmImgStrip",
+    "referenceheight": 100,
+    "referencewidth": 200,
+    "scrollbounce": true,
+    "selectedindex": null,
+    "selecteditem": null,
+    "showarrows": false,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.himagestrip2.SPAHImageStrip2Property",
+        "spaceBetweenImages": 0,
+        "viewType": "stripview"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.himagestrip2.SPAAndroidHImageStrip2Property",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true,
+        "spaceBetweenImages": 0
+    },
+    "spacebetweenimages": 0,
+    "vexpand": false,
+    "viewconfig": {
+        "coverflowConfig": {
+            "depth": "0",
+            "imageItemRotationAngle": 0,
+            "isCircular": false,
+            "projectionAngle": 0
+        },
+        "slotviewConfig": {
+            "flingVelocity": 0,
+            "flipInterval": 0,
+            "scrollDistance": 0
+        },
+        "stripviewConfig": {
+            "enableScrollBounce": true
+        }
+    },
+    "viewtype": "stripview",
+    "wType": "HStrip",
+    "widgetalignment": 5
+}

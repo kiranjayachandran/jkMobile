@@ -1,0 +1,68 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        2,
+        3
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "sa0790082783475496a15db6f63a755c",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "hbox685080434153537"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 75,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.DesktopWebScrollBoxProperty",
+        "psp": {
+            "scrollArrowConfig": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "render": true
+    },
+    "enablescrollbypage": false,
+    "id": "scbSegmentViewDetails",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.KioskScrollBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011919",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.ScrollBox",
+    "paddinginpixel": false,
+    "parent": "hbox68508043476623",
+    "pf": "frmSegmentViews",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 1,
+    "scrollingevents": null,
+    "showscrollbars": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAScrollBoxProperty"
+    },
+    "templateType": "forms",
+    "totalWt": 0,
+    "wType": "ScrollBox",
+    "widgetalignment": 1
+}

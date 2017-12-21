@@ -1,0 +1,90 @@
+{
+    "DNDConfig": null,
+    "Image": "default.png",
+    "_enabled_": false,
+    "_skin_": "s4b11c615d5247f9ba8bed20efc5e2e6",
+    "_text_": "",
+    "advview": "default",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.AndroidDateFieldProperty",
+        "_margin_": [
+            4,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "contentAlignment": 4,
+        "margin": [
+            4,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false
+        },
+        "render": true,
+        "viewType": "default"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "enddate": [
+        30,
+        8,
+        2013
+    ],
+    "focusskin": "s216667969594b3da564110586d5bbb3",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "",
+    "hexpand": true,
+    "id": "calendarTS1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806351",
+    "name": "kony.ui.Calendar",
+    "pagedate": "8/2013",
+    "parent": "tabDefaultTabFS",
+    "pf": "frmTabScreenLevel",
+    "selectdate": "8/0/2013",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPADateFieldProperty"
+    },
+    "startdate": [
+        1,
+        8,
+        2013
+    ],
+    "tabpaneId": "tabpaneDefaultTabFS",
+    "vexpand": false,
+    "viewconfig": {
+        "gridConfig": {
+            "allowWeekendSelectable": true,
+            "leftNavigationImage": "",
+            "rightNavigationImage": ""
+        }
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5
+}

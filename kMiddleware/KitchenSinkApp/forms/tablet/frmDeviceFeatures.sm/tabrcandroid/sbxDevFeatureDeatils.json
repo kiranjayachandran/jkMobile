@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s07168b3fc5c4828982150b6a9606756",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.AndroidScrollBoxProperty",
+        "_position_": 3,
+        "enableScrollByPage": false,
+        "position": 3,
+        "render": true,
+        "showScrollbars": true,
+        "undefined": false
+    },
+    "canUpdateUI": true,
+    "children": [],
+    "containerheight": 100,
+    "containerheightreference": 1,
+    "containerweight": 70,
+    "enablescrollbypage": false,
+    "id": "sbxDevFeatureDeatils",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011029",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.ScrollBox",
+    "paddinginpixel": false,
+    "parent": "hbox11819528318299",
+    "pf": "frmDeviceFeatures",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 2,
+    "scrollingevents": null,
+    "showscrollbars": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAScrollBoxProperty",
+        "psp": {
+            "scrollArrowConfig": [
+                null,
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "templateType": "forms",
+    "totalWt": 0,
+    "wType": "ScrollBox",
+    "widgetalignment": 1
+}

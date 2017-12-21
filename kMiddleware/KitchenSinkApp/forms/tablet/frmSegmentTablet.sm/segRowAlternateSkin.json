@@ -1,0 +1,291 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "label117989725237518": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Savings accts"
+                }
+            },
+            [
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings account1"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    }
+                },
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings account1"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    }
+                },
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings account1"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "label117989725237518": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Checking accts"
+                }
+            },
+            [
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checking accnt1"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$500"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    }
+                },
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checking accnt1"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$500"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    }
+                },
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checking accnt1"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$500"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "NA"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "label117989725237518": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Credit card accts"
+                }
+            },
+            [
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Titanium card"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$600"
+                    }
+                },
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Gold card"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$600"
+                    }
+                },
+                {
+                    "label118085056485032": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Silver card"
+                    },
+                    "label118085056485043": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$400"
+                    },
+                    "label118085056485054": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$600"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_enabled_": false,
+    "_indicator_": "none",
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seg2Normal",
+    "alternaterowskin": "s3fe1c2ffe1540a7b8dc95584f0064ec",
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.AndroidSegment2Property",
+        "psp": {
+            "dockSectionHeaders": false
+        },
+        "render": true,
+        "viewConfig": {
+            "coverflowConfig": {
+                "isCircular": true
+            }
+        },
+        "viewType": "tableview"
+    },
+    "canUpdateUI": true,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsSegements",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 3,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "p2kwiet125810458010467",
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {},
+    "id": "segRowAlternateSkin",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.IPadSegment2Property",
+        "psp": {
+            "bounces": true,
+            "editStyle": "none",
+            "enableDictionary": false,
+            "progressIndicatorColor": "white",
+            "searchCriteria": 1,
+            "showProgressIndicator": true
+        },
+        "render": true,
+        "viewConfig": {
+            "coverflowConfig": {}
+        },
+        "viewType": "tableview"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010408",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmSegmentTablet",
+    "pf": "frmSegmentTablet",
+    "retainselection": false,
+    "rowTemplateId": "p2kwiet125810458010467",
+    "rowcounter": 2,
+    "rowfocusskin": "s3fe1c2ffe1540a7b8dc95584f0064ec",
+    "rowskin": "s1196d1f65ef4fb7b5eadc30eb75ab8c",
+    "screenlevelwidget": false,
+    "scrollingevents": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "p2kwiet125810458012489",
+    "sectionheaderskin": "s5462ca1a65b4017b81fb1440c3c5c08",
+    "sectionheadertemplate": "hbox117989725237513",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": {},
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPASegment2Property"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAAndroidTabletSegment2Property",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAIPadSegment2Property",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAWindowsTabletSegment2Property",
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 1,
+    "widgetdatamap": {
+        "hbox117989725237513": "hbox117989725237513",
+        "hbox118085056485011": "hbox118085056485011",
+        "hdr": "hdr",
+        "label117989725237518": "label117989725237518",
+        "label118085056485032": "label118085056485032",
+        "label118085056485043": "label118085056485043",
+        "label118085056485054": "label118085056485054"
+    },
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.Windows8Segment2Property",
+        "render": true
+    }
+}

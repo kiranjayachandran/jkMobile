@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "se26b7a272ec4aedb6f4d25c19edf400",
+    "_text_": "Slot View",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "label1210492603210",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806592",
+    "name": "kony.ui.Label",
+    "parent": "frmImgStrip",
+    "pf": "frmImgStrip",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.WinPhone8LabelProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "_padding_": [
+            3,
+            10,
+            3,
+            10
+        ],
+        "contentAlignment": 4,
+        "margin": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            10,
+            3,
+            10
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_max_": 100,
+    "_min_": 0,
+    "_orientation_": "horizontal",
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_step_": 20,
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.AndroidSliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "slider1181029310129396",
+    "imgwt": 44,
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.IPhoneSliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808274",
+    "leftskin": "s85e295b2ec04a91bd7ca135b13d69b3",
+    "name": "kony.ui.Slider",
+    "noofsteps": 100,
+    "paddinginpixel": false,
+    "parent": "frmSlider",
+    "pf": "frmSlider",
+    "rightskin": "sc9ba0fa5a214671a60edfdeb5a8a9f4",
+    "selectedvalue": 20,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAAndroidSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPABBSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAIPhoneSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAWinPhone8SliderProperty",
+        "render": true
+    },
+    "stepwidth": 0,
+    "vexpand": false,
+    "view": "default",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.WinPhone8SliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "leftSkin": "sb2b5d5f047c44fc8d6d5251e89fdc65",
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s52da26f7e3f40cf95719dfd35114ef6",
+    "_text_": "",
+    "_thickness_": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.line.DesktopWebLineProperty",
+        "render": true
+    },
+    "hexpand": true,
+    "id": "line685080434115428",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.line.KioskLineProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011531",
+    "margininpixel": false,
+    "name": "kony.ui.Line",
+    "paddinginpixel": false,
+    "parent": "frmAnimations",
+    "pf": "frmAnimations",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.line.SPALineProperty"
+    },
+    "vexpand": false,
+    "wType": "Line",
+    "widgetalignment": 5
+}

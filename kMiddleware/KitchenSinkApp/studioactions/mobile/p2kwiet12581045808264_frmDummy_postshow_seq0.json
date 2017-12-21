@@ -1,0 +1,1 @@
+{"p2kwiet12581045808264_frmDummy_postshow_seq0":{"id":"p2kwiet12581045808264_frmDummy_postshow_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"},{"name":"neworientation","value":"neworientation"}],"actions":[{"id":"customcode_postshow_2606112581045806327","type":"INVOKE_FUNCTION","sequenceKUID":"feedBack","display":"feedBack"}]}}

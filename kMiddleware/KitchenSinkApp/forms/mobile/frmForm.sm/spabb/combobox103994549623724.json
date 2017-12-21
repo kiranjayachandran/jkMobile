@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s323da10e2fd40ea9e393c66474e0f01",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s323da10e2fd40ea9e393c66474e0f01",
+    "hexpand": true,
+    "id": "combobox103994549623724",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045809242",
+    "masterdata": [
+        [
+            "1",
+            "Please Select.."
+        ],
+        [
+            "2",
+            "Australia"
+        ],
+        [
+            "3",
+            "India"
+        ],
+        [
+            "4",
+            "Japan"
+        ],
+        [
+            "5",
+            "Singapur"
+        ],
+        [
+            "6",
+            "United Kingdom"
+        ],
+        [
+            "7",
+            "United States"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "parent": "hbox121049260343",
+    "pf": "frmForm",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "Please Select.."
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPABBComboBoxProperty",
+        "_padding_": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 5
+}

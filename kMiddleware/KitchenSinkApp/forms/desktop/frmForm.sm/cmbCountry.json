@@ -1,0 +1,104 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s110a9632159473db90f4d5888e5fae0",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 35,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.DesktopWebComboBoxProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "autoSuggest": false,
+            "viewType": 0
+        },
+        "render": true
+    },
+    "focusskin": "scbcf01812ed4c10a5c47b9e265829d4",
+    "hexpand": true,
+    "id": "cmbCountry",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.KioskComboBoxProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012048",
+    "masterdata": [
+        [
+            "1",
+            "Please Select.."
+        ],
+        [
+            "2",
+            "Australia"
+        ],
+        [
+            "3",
+            "India"
+        ],
+        [
+            "4",
+            "Japan"
+        ],
+        [
+            "5",
+            "Singapur"
+        ],
+        [
+            "6",
+            "United Kingdom"
+        ],
+        [
+            "7",
+            "United States"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "paddinginpixel": false,
+    "parent": "hbox685080434212758",
+    "pf": "frmForm",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "Please Select.."
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 5
+}

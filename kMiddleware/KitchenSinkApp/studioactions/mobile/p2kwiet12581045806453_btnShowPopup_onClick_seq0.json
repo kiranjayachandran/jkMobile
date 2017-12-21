@@ -1,0 +1,1 @@
+{"p2kwiet12581045806453_btnShowPopup_onClick_seq0":{"id":"p2kwiet12581045806453_btnShowPopup_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_4771112581045803651","type":"INVOKE_FUNCTION","sequenceKUID":"popUpFromBottom","display":"popUpFromBottom"}]}}

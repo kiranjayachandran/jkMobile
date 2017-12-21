@@ -1,0 +1,1 @@
+{"p2kwiet12581045806314_btnBadge_onClick_seq0":{"id":"p2kwiet12581045806314_btnBadge_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_6343812581045802868","type":"INVOKE_FUNCTION","sequenceKUID":"BadgeIncrease","display":"BadgeIncrease"}]}}

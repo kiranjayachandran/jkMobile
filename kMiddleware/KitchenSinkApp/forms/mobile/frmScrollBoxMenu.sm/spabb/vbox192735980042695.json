@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_resize_": true,
+    "_skin_": "sf673c8b156147b1a57eef3b501b9111",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "hbox192735980042714",
+        "hbox192735980042779",
+        "hbox192735980042797",
+        "hbox192735980042815",
+        "hbox192735980042833",
+        "hbox192735980042851",
+        "hbox192735980042869",
+        "hbox192735980042887",
+        "hbox192735980043205",
+        "hbox192735980088345"
+    ],
+    "containerweight": 100,
+    "id": "vbox192735980042695",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807786",
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "hbox192735980094497",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPABBVBoxProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

@@ -1,0 +1,126 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        4,
+        2,
+        2
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_resize_": true,
+    "activefocusskin": "s8a6d82c72214d9790b02565fb329343",
+    "activeskin": "s6264950df2243628d383d8fc6801a4d",
+    "activetab": 2,
+    "activetabs": [],
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.AndroidTabPaneProperty",
+        "psp": {
+            "tabHeaderHeight": 64
+        },
+        "render": false,
+        "viewType": "tabview"
+    },
+    "canUpdateUI": true,
+    "children": [
+        "tab117989725217524",
+        "tab117989725217527",
+        "tab117989725217530"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsTab",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": true
+    },
+    "focusskin": "tabFocus",
+    "id": "tabpane117989725217523",
+    "imageposition": "right",
+    "inactiveskin": "sbb10cbea32e4c9e94a2a23d4a195561",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.IPhoneTabPaneProperty",
+        "psp": {
+            "progressIndicatorColor": "white",
+            "showProgressIndicator": "false"
+        },
+        "render": true,
+        "viewType": "pageview"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808620",
+    "margininpixel": false,
+    "name": "kony.ui.TabPane",
+    "paddinginpixel": false,
+    "parent": "frmTabPageView",
+    "pf": "frmTabPageView",
+    "screenlevelwidget": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPATabPaneProperty",
+        "viewType": "tabview"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAAndroidTabPaneProperty",
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPABBTabPaneProperty",
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAIPhoneTabPaneProperty",
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPAWinPhone8TabPaneProperty",
+        "render": true
+    },
+    "tabnamealignment": "left",
+    "templateType": "forms",
+    "toggletabs": false,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "imagePosition": "right",
+            "tabNameAlignment": "left",
+            "toggleTabs": false
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true,
+            "pageOffDotImage": "page_control.png",
+            "pageOnDotImage": "page_control_active.png"
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerContainerWeight": "50",
+            "headerPosition": "top",
+            "image1": "",
+            "image2": ""
+        }
+    },
+    "wType": "TabPane",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.WinPhone8TabPaneProperty",
+        "psp": {
+            "enableCache": false
+        },
+        "render": false,
+        "viewType": "tabview"
+    }
+}

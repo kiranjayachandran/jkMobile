@@ -1,0 +1,33 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_skin_": "s2e0fd0ebc6940dd82405e073fb93e0e",
+    "_src_": "wall.png",
+    "_text_": "wall.png",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.AndroidImage2Property",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": false,
+    "id": "image21927359800107074",
+    "imagescalemode": 0,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010155",
+    "name": "kony.ui.Image2",
+    "parent": "scrollbox1927359800110223",
+    "pf": "frmScrollBoxMenu",
+    "referenceheight": 850,
+    "referencewidth": 900,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "srcType": 1,
+    "vexpand": false,
+    "wType": "Image",
+    "widgetalignment": 5
+}

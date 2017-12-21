@@ -1,0 +1,83 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "Give text for encryption..",
+    "_skin_": "s63ab27d687f4727ac5b34a5eafddd61",
+    "_text_": "",
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheightmode": 1,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s3803187e0384f078e1511a4969c43ee",
+    "hexpand": true,
+    "id": "textEncrypt",
+    "info": null,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "p2kwiet12581045808151",
+    "margininpixel": false,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "vbox1930040990147647",
+    "pf": "frmCrypto",
+    "securetextentry": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPATextBox2Property",
+        "autoCorrect": false,
+        "containerHeightMode": 3
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPAIPhoneTextBox2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "_padding_": [
+            2,
+            3,
+            0,
+            3
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            3,
+            0,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextField",
+    "widgetalignment": 5
+}

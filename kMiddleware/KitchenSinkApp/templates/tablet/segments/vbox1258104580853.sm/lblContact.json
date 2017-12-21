@@ -1,0 +1,124 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s2bf2519173c4ce6893ff14f96ad2100",
+    "_text_": "Label",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "_margin_": [
+            20,
+            20,
+            0,
+            20
+        ],
+        "margin": [
+            20,
+            20,
+            0,
+            20
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "lblContact",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPadLabelProperty",
+        "_margin_": [
+            20,
+            20,
+            0,
+            20
+        ],
+        "margin": [
+            20,
+            20,
+            0,
+            20
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "textCopyable": false,
+            "wrapping": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012244",
+    "name": "kony.ui.Label",
+    "parent": "vbox1258104580853",
+    "pf": "vbox1258104580853",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidTabletLabelProperty",
+        "_margin_": [
+            7,
+            7,
+            0,
+            7
+        ],
+        "margin": [
+            7,
+            7,
+            0,
+            7
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPadLabelProperty",
+        "_margin_": [
+            7,
+            7,
+            0,
+            7
+        ],
+        "margin": [
+            7,
+            7,
+            0,
+            7
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAWindowsTabletLabelProperty",
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.Windows8LabelProperty",
+        "_margin_": [
+            20,
+            20,
+            0,
+            20
+        ],
+        "margin": [
+            20,
+            20,
+            0,
+            20
+        ],
+        "marginInPixel": true,
+        "render": true
+    }
+}

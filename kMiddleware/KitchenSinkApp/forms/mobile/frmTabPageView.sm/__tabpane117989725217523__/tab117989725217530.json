@@ -1,0 +1,78 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_image_": "",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_render_": true,
+    "_skin_": "s9c3d768de4e4ae096fa786922c6b01f",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.AndroidTabProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [
+        "richtext117989725217545"
+    ],
+    "containerweight": 100,
+    "id": "tab117989725217530",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.IPhoneTabProperty",
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808619",
+    "layoutalignment": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "oninit": null,
+    "paddinginpixel": false,
+    "parent": "tabpane117989725217523",
+    "pf": "frmTabPageView",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPATabProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPAAndroidTabProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPABBTabProperty",
+        "render": true
+    },
+    "spacing": 1,
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPAIPhoneTabProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPAWinPhone8TabProperty",
+        "render": true
+    },
+    "tabname": "Tab3",
+    "tabpaneId": "tabpane117989725217523",
+    "wType": "Tab",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.WinPhone8TabProperty",
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

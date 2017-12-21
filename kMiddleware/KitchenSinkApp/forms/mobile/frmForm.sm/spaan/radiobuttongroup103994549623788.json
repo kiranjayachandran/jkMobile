@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sa5283902ce443bf8d7e12407e49a895",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusskin": "sa5283902ce443bf8d7e12407e49a895",
+    "hexpand": true,
+    "id": "radiobuttongroup103994549623788",
+    "info": null,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "p2kwiet12581045809228",
+    "masterdata": [
+        [
+            "1",
+            "Male"
+        ],
+        [
+            "2",
+            "Female"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "Male"
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPARadioProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPAAndroidRadioProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 4
+}

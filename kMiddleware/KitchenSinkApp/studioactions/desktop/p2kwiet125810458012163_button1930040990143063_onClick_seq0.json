@@ -1,0 +1,1 @@
+{"p2kwiet125810458012163_button1930040990143063_onClick_seq0":{"id":"p2kwiet125810458012163_button1930040990143063_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_8262712581045804201","type":"INVOKE_FUNCTION","sequenceKUID":"setItemvalues","display":"setItemvalues"}]}}

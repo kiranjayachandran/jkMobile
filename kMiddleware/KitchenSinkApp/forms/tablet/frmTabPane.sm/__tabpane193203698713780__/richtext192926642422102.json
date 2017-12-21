@@ -1,0 +1,131 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s995c3f55e8f45ea863626a3050b4062",
+    "_text_": "<p>Solutions for your customers, employees, vendors and partners.Configurable,  Extensible with Universal Integration.Stunning User Experience.Support for All Technologies and Devices.\n</p>",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.AndroidRichTextProperty",
+        "_padding_": [
+            2,
+            1,
+            1,
+            0
+        ],
+        "padding": [
+            2,
+            1,
+            1,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "richtext192926642422102",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.IPadRichTextProperty",
+        "_padding_": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "_wrapping_": 2,
+        "padding": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true,
+        "wrapping": 2
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011126",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "tab193203698713790",
+    "pf": "frmTabPane",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPARichTextProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPAAndroidTabletRichTextProperty",
+        "_padding_": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "padding": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPAIPadRichTextProperty",
+        "_padding_": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "padding": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.SPAWindowsTabletRichTextProperty",
+        "render": true
+    },
+    "tabpaneId": "tabpane193203698713780",
+    "vexpand": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.richtext.Windows8RichTextProperty",
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    }
+}

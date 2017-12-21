@@ -1,0 +1,87 @@
+{
+    "applicableblockedUIWidget": "Button",
+    "background_color": "ffffff00",
+    "background_style": "vg",
+    "bg_type": "one",
+    "blockedimgURL": "",
+    "border_color": "000000ff",
+    "border_radius": 0,
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_radius": 10,
+    "bottom_left_border_width": 0,
+    "bottom_right_border_color": "000000ff",
+    "bottom_right_border_radius": 10,
+    "bottom_right_border_width": 0,
+    "desktopweb": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "font_color": "000000ff",
+    "font_size": 100,
+    "font_weight": "normal",
+    "gridLineColor": "0000000",
+    "id": "customCSS",
+    "isForked": false,
+    "kuid": "s6331bff86ed468a88ddbc5927d3e414",
+    "shadow": {
+        "br": 0,
+        "color": "000000",
+        "inner": false,
+        "x": 0,
+        "y": 0
+    },
+    "spaan": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spabb": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaip": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaipad": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spawinphone8": {
+        "customCSS": "#frmDeviceFeatures_hbxSpaDevFeat div.kcell{  vertical-align: top; } #frmDeviceFeatures_sbxDevFeatureDeatils div.kcell{  vertical-align: top; }",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "text_shadow": {
+        "br": 0,
+        "color": "000000",
+        "x": 0,
+        "y": 0
+    },
+    "top_left_border_color": "000000ff",
+    "top_left_border_radius": 10,
+    "top_left_border_width": 0,
+    "top_right_border_color": "000000ff",
+    "top_right_border_radius": 10,
+    "top_right_border_width": 0,
+    "use_native": "false",
+    "vizChannel": "default",
+    "wType": "Label"
+}

@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_image_": "",
+    "_orientation_": 0,
+    "_percent_": true,
+    "_position_": 3,
+    "_render_": true,
+    "_skin_": "s9c3d768de4e4ae096fa786922c6b01f",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "richtextDefTab2"
+    ],
+    "containerweight": 100,
+    "id": "tabDefTab1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808775",
+    "layoutalignment": 0,
+    "name": "kony.ui.Tab",
+    "oninit": null,
+    "parent": "tabpaneDefaultTab",
+    "pf": "frmTabDefault",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPATabProperty"
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPABBTabProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spacing": 1,
+    "tabname": "Second tab",
+    "tabpaneId": "tabpaneDefaultTab",
+    "wType": "Tab",
+    "widgetalignment": 1
+}

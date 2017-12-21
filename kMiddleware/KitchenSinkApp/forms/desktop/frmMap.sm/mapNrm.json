@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_mode_": 1,
+    "_text_": "AIzaSyBBR_-JLwZ9Ami6h5m7KgaGvIxpno6vFDU",
+    "calloutwidth": 80,
+    "canUpdateUI": true,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.map.DesktopWebMapProperty",
+        "_mode_": 1,
+        "mapSource": "non-native",
+        "mode": 1,
+        "render": true
+    },
+    "hexpand": true,
+    "id": "mapNrm",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.map.KioskMapProperty",
+        "_mode_": 1,
+        "mode": 1,
+        "render": true,
+        "zoomLevel": 2
+    },
+    "kuid": "p2kwiet125810458011785",
+    "locationdata": [
+        {
+            "desc": "Phoenix infocity, Gachibowli",
+            "lat": "17.447326",
+            "lon": "78.371358",
+            "name": "KonyLabs(New)"
+        },
+        {
+            "desc": "Mindspace, Hitech City",
+            "lat": "17.441839",
+            "lon": "78.380928",
+            "name": "KonyLabs(Old)"
+        },
+        {
+            "desc": "Jaihind Enclave, Madhapur",
+            "lat": "17.450378",
+            "lon": "78.388398",
+            "name": "My Residence"
+        }
+    ],
+    "mapsource": "non-native",
+    "mapsrc": "non-native",
+    "margininpixel": false,
+    "name": "kony.ui.Map",
+    "parent": "vbox192926642422365",
+    "pf": "frmMap",
+    "provider": "google",
+    "screenlevelwidget": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.map.SPAMapProperty",
+        "_mode_": 1,
+        "mapSource": "non-native",
+        "mode": 1
+    },
+    "vexpand": false,
+    "wType": "Map",
+    "widgetalignment": 5,
+    "zoomlevel": 15
+}

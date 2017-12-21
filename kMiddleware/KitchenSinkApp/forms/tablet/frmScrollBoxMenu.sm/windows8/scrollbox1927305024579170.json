@@ -1,0 +1,82 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s07168b3fc5c4828982150b6a9606756",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "image21927305024579171",
+        "image21927305024579490",
+        "image21927305024579666",
+        "image21927305024579738",
+        "image21927305024579814",
+        "image21927305024579882",
+        "image21927305024579986"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "enablescrollbypage": false,
+    "id": "scrollbox1927305024579170",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010191",
+    "layoutalignment": 3,
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.ScrollBox",
+    "paddinginpixel": false,
+    "parent": "vbox1927305024579169",
+    "pf": "frmScrollBoxMenu",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 1,
+    "scrollingevents": null,
+    "showscrollbars": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.SPAScrollBoxProperty",
+        "psp": {
+            "scrollArrowConfig": [
+                null,
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "templateType": "forms",
+    "totalWt": 0,
+    "wType": "ScrollBox",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollbox.Windows8ScrollBoxProperty",
+        "_margin_": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": true,
+        "render": true
+    }
+}

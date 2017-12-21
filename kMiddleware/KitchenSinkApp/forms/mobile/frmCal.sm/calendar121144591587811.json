@@ -1,0 +1,184 @@
+{
+    "DNDConfig": null,
+    "Image": "default.png",
+    "_enabled_": false,
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_skin_": "sb88823446e94555ab7eb8e8ca4c9c53",
+    "_text_": "",
+    "advview": "default",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.AndroidDateFieldProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false
+        },
+        "render": false,
+        "viewType": "default"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "enddate": [
+        30,
+        8,
+        2013
+    ],
+    "focusskin": "s216667969594b3da564110586d5bbb3",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "",
+    "hexpand": false,
+    "id": "calendar121144591587811",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.IPhoneDateFieldProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false,
+            "mode": 0
+        },
+        "render": false,
+        "viewType": "default"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807146",
+    "name": "kony.ui.Calendar",
+    "paddinginpixel": false,
+    "pagedate": "8/2013",
+    "parent": "frmCal",
+    "pf": "frmCal",
+    "selectdate": "8/0/2013",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPADateFieldProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAAndroidDateFieldProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPABBDateFieldProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAIPhoneDateFieldProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAWinPhone8DateFieldProperty",
+        "render": true
+    },
+    "startdate": [
+        1,
+        8,
+        2013
+    ],
+    "vexpand": false,
+    "viewconfig": {
+        "gridConfig": {
+            "allowWeekendSelectable": true,
+            "leftNavigationImage": "",
+            "rightNavigationImage": ""
+        }
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.WinPhone8DateFieldProperty",
+        "_margin_": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "margin": [
+            12,
+            4,
+            12,
+            4
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": false,
+        "viewType": "default"
+    }
+}

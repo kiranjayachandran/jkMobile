@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s6fb2761339a4cfa9c7570bc2e926d56",
+    "_text_": "Iphone",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 75,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "label1180105789136292",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807606",
+    "name": "kony.ui.Label",
+    "parent": "hbox1180105789136288",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.WinPhone8LabelProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            3,
+            10,
+            3,
+            10
+        ],
+        "contentAlignment": 4,
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            10,
+            3,
+            10
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

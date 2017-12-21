@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_placeholder_": "Enter text",
+    "_render_": true,
+    "_skin_": "s820fb8368f84a5d90fe3b9c981ff7f9",
+    "_text_": "",
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerweight": 100,
+    "contentalignment": 1,
+    "focusskin": "s820fb8368f84a5d90fe3b9c981ff7f9",
+    "hexpand": true,
+    "id": "textarea2117989725235330",
+    "info": null,
+    "isvisible": true,
+    "keyboardactionlabel": "",
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "p2kwiet12581045807214",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "parent": "frmTxtArea",
+    "pf": "frmTxtArea",
+    "securetextentry": false,
+    "showclosebutton": false,
+    "showoprogressindicator": true,
+    "showprogressindicator": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.SPATextArea2Property",
+        "autoCorrect": false
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.textarea2.SPAAndroidTextArea2Property",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextArea",
+    "widgetalignment": 5
+}

@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scc63c4992b34d5380431580a0aced2b",
+    "_text_": "Provide feedback",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.link.DesktopWebLinkProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "_padding_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "focusskin": "se7b9f7ae7fb4b34a11a68528f8fba41",
+    "hexpand": true,
+    "id": "lnkFeedback",
+    "ide_onClick": "p2kwiet125810458011609_lnkFeedback_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.link.KioskLinkProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011608",
+    "margininpixel": false,
+    "name": "kony.ui.Link",
+    "paddinginpixel": false,
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPALinkProperty"
+    },
+    "vexpand": false,
+    "wType": "Link",
+    "widgetalignment": 5
+}

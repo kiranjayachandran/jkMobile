@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "s550a2512ada4507a5ce8190b3381dc0",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 22,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.DesktopWebButtonProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            6,
+            6,
+            6,
+            6
+        ],
+        "displayText": true,
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            6,
+            6,
+            6,
+            6
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "displaytext": true,
+    "focusskin": "s17b23797d3b4739b6747a4b06a2c0ab",
+    "hexpand": false,
+    "id": "btnHTMLPF",
+    "ide_onClick": "p2kwiet125810458011870_btnHTMLPF_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011867",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbxWinNBBplatforms",
+    "pf": "frmPlatforms",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

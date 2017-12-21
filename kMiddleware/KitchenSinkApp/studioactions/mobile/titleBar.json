@@ -1,0 +1,1 @@
+{"titleBar":{"id":"p2kwiet125810458010333_titleBar_titlebarAction","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"INVOKE_FUNCTION_titleBar","type":"INVOKE_FUNCTION","sequenceKUID":"titleBar","display":"titleBar","inputparams":[],"parentId":null,"callbackType":null}]}}

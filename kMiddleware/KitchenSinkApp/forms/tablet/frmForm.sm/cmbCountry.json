@@ -1,0 +1,114 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        1,
+        2,
+        1
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sc28b7332b96491b8043f6a32c78268f",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.AndroidComboBoxProperty",
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "scbcf01812ed4c10a5c47b9e265829d4",
+    "hexpand": true,
+    "id": "cmbCountry",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.IPadComboBoxProperty",
+        "psp": {
+            "groupCells": false,
+            "viewType": 0
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011210",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "1",
+            "Please Select.."
+        ],
+        [
+            "2",
+            "Australia"
+        ],
+        [
+            "3",
+            "India"
+        ],
+        [
+            "4",
+            "Japan"
+        ],
+        [
+            "5",
+            "Singapur"
+        ],
+        [
+            "6",
+            "United Kingdom"
+        ],
+        [
+            "7",
+            "United States"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "paddinginpixel": false,
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "Please Select.."
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAAndroidTabletComboBoxProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAIPadComboBoxProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAWindowsTabletComboBoxProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.Windows8ComboBoxProperty",
+        "_margin_": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "margin": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "marginInPixel": false,
+        "render": true
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sf673c8b156147b1a57eef3b501b9111",
+    "_text_": "Aspect ratio of referenceWidth and referenceHeight = 2:1",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "hexpand": true,
+    "id": "labeloriasp",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808900",
+    "name": "kony.ui.Label",
+    "parent": "frmImgMaintainAspectRatio",
+    "pf": "frmImgMaintainAspectRatio",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPABBLabelProperty",
+        "_margin_": [
+            4,
+            3,
+            4,
+            3
+        ],
+        "_padding_": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "margin": [
+            4,
+            3,
+            4,
+            3
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

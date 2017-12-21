@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_skin_": "s2e0fd0ebc6940dd82405e073fb93e0e",
+    "_src_": "cpyriteipad.png",
+    "_text_": "cpyriteipad.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "image211798972521173",
+    "imagescalemode": 0,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012323",
+    "name": "kony.ui.Image2",
+    "parent": "hbox192735980024368",
+    "pf": "ftrOne",
+    "referenceheight": 60,
+    "referencewidth": 1280,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAIPadImage2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "srcType": 1,
+    "vexpand": true,
+    "wType": "Image",
+    "widgetalignment": 5
+}

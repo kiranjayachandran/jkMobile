@@ -1,0 +1,134 @@
+{
+    "mwaddrkey": "10.10.5.172",
+    "mapkey": "AIzaSyBBR_-JLwZ9Ami6h5m7KgaGvIxpno6vFDU",
+    "wap_android360_fontsize": "13",
+    "isA11yConfigEnabled": "false",
+    "spaipadbasefontsize": "17",
+    "wap_android440_fontsize": "15",
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "apppackagekey": "com.kony.KitchenSinkApp",
+    "winmangotiletitlekey": "KitchenSinkApp",
+    "wap_android400_fontsize": "14",
+    "wap_spaandroidtabhdpi_fontsize": "16",
+    "iphonebundleidentifierkey": "com.kone.KitchenSink",
+    "desktopwebaligenmentoption": "left",
+    "appversionkey": "1.0.0",
+    "desktopwebwidthoption": "Percentage",
+    "applogokey": "konyap.png",
+    "spaandroidtabbasefontsize": "17",
+    "startupformkey": "frmPlatforms",
+    "wap_android640_fontsize": "19",
+    "vendornamekey": "KonyLabs",
+    "wap_android320_fontsize": "12",
+    "wap_android_fontsize": "10",
+    "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
+    "createdgaversion": "5.0.0",
+    "extendTop": "false",
+    "desktopstartupformkey": "frmUInterface",
+    "enableactionbar": false,
+    "wap_android480_fontsize": "14",
+    "androidmapkey": "0YW7LQ_ON4_GfRt4bYcgXO-kkSrxlOyipmMN7CA",
+    "mastersProperties": {
+        "masterVersion": "2.0.0"
+    },
+    "appmenu": {
+        "tablet": {
+            "data": []
+        },
+        "desktop": {
+            "data": [
+                {
+                    "kuid": "958b3c85d08b4969a64818daf78152bc",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "38d4d7bcb8ad4408ab675c499ae67a39",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "532ee7c3d61442fcaa13a934bbd4e5cc",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "e6a5e974d28f447486d168f2891d4760",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "wType": "Appmenu",
+        "mobile": {
+            "data": []
+        }
+    },
+    "wap_spaipad_fontsize": "17",
+    "mwportkey": "8080",
+    "supportedorientations": [
+        "portrait",
+        "landscape"
+    ],
+    "desktopwebwidthval": "100",
+    "appidkey": "ksa2",
+    "statusBarHidden": "false",
+    "isNewAppWithRespectToAndroidPackageName": "true",
+    "androidmapwidgetkey": "0YW7LQ_ON4_GfRt4bYcgXO-kkSrxlOyipmMN7CA",
+    "defaulttheme": "defaultTheme",
+    "staticmapwidgetkey": "AIzaSyBBR_-JLwZ9Ami6h5m7KgaGvIxpno6vFDU",
+    "iphonebundleversionkey": "1.0",
+    "iphoneipadglossyeffectkey": "true",
+    "extendBottom": "false",
+    "tabletstartupformkey": "frmPlatforms",
+    "pasteboardType": "2",
+    "appnamekey": "KitchenSinkApp",
+    "currentgaversion": "7.3.0",
+    "desktopwebbasefontsize": "16",
+    "mfappguid": {
+        "76021c6c-1554-4b6a-89f9-c4f4fae8424c": "a093fb27-9deb-4fa5-8d7f-80a75b21381c"
+    },
+    "wap_android240_fontsize": "10",
+    "@class": "com.kony.gen.appprops.KVizAppProps",
+    "wap_spaandroidtabldpi_fontsize": "17",
+    "wap_spaandroidtabmdpi_fontsize": "14",
+    "apptitle": "KitchenSinkApp",
+    "konyVizVersion": "7.3.0",
+    "wap_spaandroidtab_fontsize": "17",
+    "winmobileguidkey": "3918fdb1-83cc-48a2-a0ed-75b78b896999",
+    "ide_appEvents": {
+        "tablet": {
+            "preappinit": "ksa2preappinit"
+        },
+        "desktop": {
+            "preappinit": "ksa2preappinit"
+        },
+        "mobile": {
+            "preappinit": "ksa2preappinit"
+        }
+    },
+    "build": "debug",
+    "project_version": "sprint27",
+    "ipadlandscapemodekey": "both",
+    "wap_ip_fontsize": "12",
+    "category": "app",
+    "createdVizVersion": "7.3.0",
+    "nativeContainerProperties": {
+        "isModified": true,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "_data_": [
+        [
+            {
+                "Section Name": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "  A"
+                }
+            },
+            [
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Alpha"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Apple"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Astro"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "Section Name": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "  B"
+                }
+            },
+            [
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Beta"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Blaze"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bronze"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "Section Name": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "  C"
+                }
+            },
+            [
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Cactus"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Cape"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Comic"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "Section Name": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "  D"
+                }
+            },
+            [
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delta"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Dome"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Duck"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "Section Name": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "  E"
+                }
+            },
+            [
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Epsilon"
+                    }
+                },
+                {
+                    "lblContact": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Euka"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_orientation_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.segment.AndroidSegmentProperty",
+        "groupCells": true,
+        "psp": {
+            "dockSectionHeaders": false
+        },
+        "render": true,
+        "screenLevelWidget": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "generatedtemplate": "p2kwiet125810458012250",
+    "id": "segPop",
+    "ide_onClick": "p2kwiet125810458012248_segPop_onClick_seq0",
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.segment.IPadSegmentProperty",
+        "groupCells": false,
+        "psp": {
+            "bounces": true,
+            "enableDictionary": false,
+            "indicator": "rowselect",
+            "progressIndicatorColor": "white",
+            "retainheaderfooter": false,
+            "searchCriteria": 1,
+            "showProgressIndicator": true
+        },
+        "render": true,
+        "screenLevelWidget": false
+    },
+    "ispageindicatorneeded": true,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458012245",
+    "name": "kony.ui.SegmentedUI",
+    "navigationskin": "segNormal",
+    "needsectionheaders": true,
+    "parent": "scrollbox117822895610580",
+    "pf": "frmPop",
+    "rowTemplateId": "p2kwiet125810458012250",
+    "rowfocusskin": "sd73cec9ee77465b9d96de1964d99c1a",
+    "rowskin": "s51a311426cb4b8cb30e1d9a23045a43",
+    "rowtemplate": "vbox1258104580853",
+    "sectionheaderskin": "sdf8a7858f2340d799ea9f1bcfe8cd55",
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": {},
+    "separatorcolor": "64646400",
+    "separatorthickness": 1,
+    "showstatus": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.segment.SPASegmentProperty",
+        "psp": {
+            "sectionSpace": 0
+        }
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.segment.SPAAndroidTabletSegmentProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.segment.SPAIPadSegmentProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.segment.SPAWindowsTabletSegmentProperty",
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment0",
+    "widgetalignment": 1,
+    "widgetdatamap": {
+        "lblContact": "lblContact"
+    },
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.segment.Windows8SegmentProperty",
+        "groupCells": false,
+        "psp": {
+            "renderSep": true,
+            "spaceBetweenSections": 0
+        },
+        "render": true,
+        "screenLevelWidget": false
+    }
+}

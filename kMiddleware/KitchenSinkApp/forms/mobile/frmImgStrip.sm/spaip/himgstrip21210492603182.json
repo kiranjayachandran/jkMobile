@@ -1,0 +1,165 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "iurl": "image20.png"
+            },
+            {
+                "iurl": "image19.png"
+            },
+            {
+                "iurl": "image18.png"
+            },
+            {
+                "iurl": "image17.png"
+            },
+            {
+                "iurl": "image16.png"
+            },
+            {
+                "iurl": "image15.png"
+            },
+            {
+                "iurl": "image14.png"
+            },
+            {
+                "iurl": "image13.png"
+            },
+            {
+                "iurl": "image12.png"
+            },
+            {
+                "iurl": "image11.png"
+            },
+            {
+                "iurl": "image10.png"
+            },
+            {
+                "iurl": "image9.png"
+            },
+            {
+                "iurl": "image8.png"
+            },
+            {
+                "iurl": "image7.png"
+            },
+            {
+                "iurl": "image6.png"
+            },
+            {
+                "iurl": "image5.png"
+            },
+            {
+                "iurl": "image4.png"
+            },
+            {
+                "iurl": "image3.png"
+            },
+            {
+                "iurl": "image2.png"
+            },
+            {
+                "iurl": "image1.png"
+            }
+        ],
+        "iurl"
+    ],
+    "_enabled_": false,
+    "_skin_": "s0f6b70c0dc446b6a4c73842b0605069",
+    "_text_": "HImageStrip2",
+    "arrowconfig": {
+        "leftArrowFocusImage": "",
+        "leftArrowImage": "",
+        "rightArrowFocusImage": "",
+        "rightArrowImage": ""
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "count": 0,
+    "focusedindex": null,
+    "focuseditem": null,
+    "focusskin": "s0f6b70c0dc446b6a4c73842b0605069",
+    "hexpand": true,
+    "id": "himgstrip21210492603182",
+    "ide_onSelection": "p2kwiet12581045806606_himgstrip21210492603182_onSelection_seq0",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045806604",
+    "masterdata": [],
+    "name": "kony.ui.HorizontalImageStrip2",
+    "parent": "frmImgStrip",
+    "pf": "frmImgStrip",
+    "referenceheight": 100,
+    "referencewidth": 200,
+    "scrollbounce": true,
+    "selectedindex": null,
+    "selecteditem": null,
+    "showarrows": false,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.himagestrip2.SPAHImageStrip2Property",
+        "spaceBetweenImages": 0,
+        "viewType": "slotview"
+    },
+    "spacebetweenimages": 0,
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.himagestrip2.SPAIPhoneHImageStrip2Property",
+        "_margin_": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true,
+        "spaceBetweenImages": 0
+    },
+    "vexpand": false,
+    "viewconfig": {
+        "coverflowConfig": {
+            "depth": "0",
+            "imageItemRotationAngle": 0,
+            "isCircular": false,
+            "projectionAngle": 0
+        },
+        "slotviewConfig": {
+            "flingVelocity": 0,
+            "flipInterval": 0,
+            "scrollDistance": 0
+        },
+        "stripviewConfig": {
+            "enableScrollBounce": true
+        }
+    },
+    "viewtype": "slotview",
+    "wType": "HStrip",
+    "widgetalignment": 5
+}

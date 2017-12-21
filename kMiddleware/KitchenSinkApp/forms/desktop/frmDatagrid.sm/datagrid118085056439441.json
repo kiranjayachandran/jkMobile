@@ -1,0 +1,136 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        },
+        {
+            "Audi": "audi.png",
+            "Ford": "ford.png",
+            "Skoda": "skoda.png"
+        }
+    ],
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_text_": "",
+    "canUpdateUI": true,
+    "cellBorder": "thin solid #5c115c",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Audi",
+            "columnID": "Audi",
+            "columnType": "image",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281189"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Ford",
+            "columnID": "Ford",
+            "columnType": "image",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281191"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Skoda",
+            "columnID": "Skoda",
+            "columnType": "image",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "columndata6850804341281193"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2",
+        "col3"
+    ],
+    "columntype": [
+        "text",
+        "text",
+        "text"
+    ],
+    "containerweight": 70,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "NewForm2013722173539288",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "counter": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.table.DesktopWebTableProperty",
+        "psp": {
+            "dockingHeader": false,
+            "enableScrollBar": "0"
+        },
+        "render": true
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "focusskin": "dGridRowNormal",
+    "gridlinecolor": "5c115c",
+    "gridlinestyle": "solid",
+    "headerskin": "s4b5f5627a86414a98f1f574c1abfcc9",
+    "hexpand": true,
+    "id": "datagrid118085056439441",
+    "info": null,
+    "ismultiselect": false,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.table.KioskTableProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458012022",
+    "margininpixel": false,
+    "name": "kony.ui.DataGrid",
+    "paddinginpixel": false,
+    "parent": "hbox68508043413369",
+    "pf": "frmDatagrid",
+    "rowalternateskin": "s9d9b887efe74602b9c42caebb4f5d79",
+    "rowcount": 4,
+    "rowfocusskin": "s20aab17440d45069c6e44260e238fda",
+    "rownormalskin": "s361cc340e034b9fb7fffad39d1c3582",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.table.SPATableProperty"
+    },
+    "vexpand": false,
+    "wType": "DataGrid",
+    "widgetalignment": 5
+}

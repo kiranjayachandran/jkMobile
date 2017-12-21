@@ -1,0 +1,1 @@
+{"p2kwiet12581045809111_btnInlineBack_onClick_seq0":{"id":"p2kwiet12581045809111_btnInlineBack_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"expression_onClick_3991812581045805929","enableMappingEditor":false,"type":"ADD_SNIPPET","codeSnippet":"frmBrowser.brwDemo.goBack()"}]}}

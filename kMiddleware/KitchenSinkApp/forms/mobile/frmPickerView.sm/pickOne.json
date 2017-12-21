@@ -1,0 +1,404 @@
+{
+    "DNDConfig": null,
+    "__inst": {
+        "_selectedValues": {},
+        "settings": {
+            "ariaDesc": "Select a value",
+            "cancelText": "Cancel",
+            "delay": 300,
+            "disabled": false,
+            "display": "inline",
+            "headerText": "{value}",
+            "height": 40,
+            "id": "NewForm201381416597148_PickerView9501051",
+            "lang": "en-US",
+            "mode": "scroller",
+            "preset": "",
+            "readonly": false,
+            "rows": 3,
+            "scrollLock": true,
+            "setText": "Set",
+            "showLabel": false,
+            "showOnFocus": true,
+            "showOnTap": true,
+            "speedUnit": 0.0012,
+            "tap": true,
+            "theme": "ios",
+            "timeUnit": 0.1,
+            "wheels": [
+                [
+                    {
+                        "keys": [
+                            "y1",
+                            "y2",
+                            "y3"
+                        ],
+                        "values": [
+                            "2009",
+                            "2010",
+                            "2011"
+                        ],
+                        "width": "yearcomp"
+                    },
+                    {
+                        "keys": [
+                            "m1",
+                            "m2",
+                            "m3",
+                            "m4",
+                            "m5",
+                            "m6",
+                            "m7"
+                        ],
+                        "values": [
+                            "Jan",
+                            "Feb",
+                            "Mar",
+                            "Apr",
+                            "May",
+                            "Jun",
+                            "Jul"
+                        ],
+                        "width": "monthcomp"
+                    }
+                ]
+            ],
+            "width": 70,
+            "xwidth": 200
+        },
+        "temp": [
+            "y1",
+            "m1"
+        ],
+        "val": "y1 m1",
+        "values": [
+            "y1",
+            "m1"
+        ]
+    },
+    "__wheels": [
+        [
+            {
+                "keys": [
+                    "y1",
+                    "y2",
+                    "y3"
+                ],
+                "values": [
+                    "2009",
+                    "2010",
+                    "2011"
+                ],
+                "width": "yearcomp"
+            },
+            {
+                "keys": [
+                    "m1",
+                    "m2",
+                    "m3",
+                    "m4",
+                    "m5",
+                    "m6",
+                    "m7"
+                ],
+                "values": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun",
+                    "Jul"
+                ],
+                "width": "monthcomp"
+            }
+        ]
+    ],
+    "_dimension_": 18,
+    "_enabled_": false,
+    "_margin_": [
+        4,
+        0,
+        4,
+        5
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "se555bdc2f7e4341be9fd83143a7dd30",
+    "_text_": "",
+    "activeFocusSkin": "slPickerView1379159797987",
+    "activeSkin": "slPickerView1379159787412",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.AndroidPickerViewProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerWeightLocked": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "groupcells": false,
+    "hexpand": true,
+    "id": "pickOne",
+    "ide_onSelection": "p2kwiet12581045809538_pickOne_onSelection_seq0",
+    "inactiveSkin": "slPickerView1379159813912",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.IPhonePickerViewProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "p2kwiet12581045809530",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            [
+                "1",
+                "BMW"
+            ],
+            [
+                "2",
+                "Chevrolet"
+            ],
+            [
+                "3",
+                "Aston Martin"
+            ],
+            [
+                "4",
+                "Ferrari"
+            ],
+            [
+                "5",
+                "Honda"
+            ],
+            [
+                "6",
+                "Hyundai"
+            ],
+            [
+                "7",
+                "Jaguar"
+            ],
+            [
+                "8",
+                "Jeep"
+            ],
+            [
+                "9",
+                "Porsche"
+            ],
+            33,
+            "Brand"
+        ],
+        [
+            [
+                "1",
+                "2003"
+            ],
+            [
+                "2",
+                "2004"
+            ],
+            [
+                "3",
+                "2005"
+            ],
+            [
+                "4",
+                "2006"
+            ],
+            [
+                "5",
+                "2007"
+            ],
+            [
+                "6",
+                "2008"
+            ],
+            [
+                "7",
+                "2009"
+            ],
+            [
+                "8",
+                "2010"
+            ],
+            [
+                "9",
+                "2011"
+            ],
+            33,
+            "YearofManufacture"
+        ],
+        [
+            [
+                "1",
+                "Black"
+            ],
+            [
+                "2",
+                "Silver"
+            ],
+            [
+                "3",
+                "White"
+            ],
+            [
+                "4",
+                "Red"
+            ],
+            [
+                "5",
+                "Gray"
+            ],
+            [
+                "6",
+                "Yellow"
+            ],
+            [
+                "7",
+                "Blue"
+            ],
+            [
+                "8",
+                "Gold"
+            ],
+            [
+                "9",
+                "Purple"
+            ],
+            34,
+            "Colour"
+        ]
+    ],
+    "masterdatamap": null,
+    "name": "kony.ui.PickerView",
+    "paddinginpixel": false,
+    "pageSkin": "slPickerView1379159828015",
+    "parent": "hbxPickerView",
+    "pf": "frmPickerView",
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        "2009",
+        "Jan"
+    ],
+    "size": 18,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.SPAPickerViewProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.SPAAndroidPickerViewProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.SPABBPickerViewProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.SPAIPhonePickerViewProperty",
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.SPAWinPhone8PickerViewProperty",
+        "render": false
+    },
+    "tickedimage": "checkboxselected.png",
+    "untickedimage": "checkboxnormal.png",
+    "vexpand": false,
+    "viewtype": 0,
+    "wType": "PickerView",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.pickerview.WinPhone8PickerViewProperty",
+        "_margin_": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

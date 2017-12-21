@@ -1,0 +1,1 @@
+{"p2kwiet12581045808309_btnThree_onClick_seq0":{"id":"p2kwiet12581045808309_btnThree_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"navigation_onClick_6722012581045809085","type":"NAVIGATE_TO_FORM","$formId":"frmImgCrop","enableMappingEditor":false,"formKUID":"p2kwiet12581045807936"}]}}

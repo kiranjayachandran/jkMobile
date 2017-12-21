@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sf673c8b156147b1a57eef3b501b9111",
+    "_text_": "Perform Double Tap,Swipe and Longpress  gestures in this form and observe corresponding images below.",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "lblFrmGestures",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045809149",
+    "name": "kony.ui.Label",
+    "parent": "frmGestures",
+    "pf": "frmGestures",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.WinPhone8LabelProperty",
+        "_margin_": [
+            6,
+            6,
+            6,
+            2
+        ],
+        "_padding_": [
+            6,
+            10,
+            6,
+            10
+        ],
+        "contentAlignment": 4,
+        "margin": [
+            6,
+            6,
+            6,
+            2
+        ],
+        "marginInPixel": true,
+        "padding": [
+            6,
+            10,
+            6,
+            10
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

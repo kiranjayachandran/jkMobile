@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "s0e8adc32e2c41cfbadc2e567dabfa64",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "_padding_": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "displayText": true,
+        "margin": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8fb6acfff01467aaabe1d5ae0335343",
+    "hexpand": false,
+    "id": "btnFrmAnimations",
+    "ide_onClick": "p2kwiet125810458010270_btnFrmAnimations_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010262",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "vbox11819528317011",
+    "pf": "frmHome",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

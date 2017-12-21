@@ -1,0 +1,211 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_max_": 100,
+    "_min_": 0,
+    "_orientation_": "horizontal",
+    "_step_": 1,
+    "_text_": "Slider",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.AndroidSliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "slider103994549624243",
+    "imgwt": 44,
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.IPhoneSliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808270",
+    "leftskin": "s85e295b2ec04a91bd7ca135b13d69b3",
+    "name": "kony.ui.Slider",
+    "noofsteps": 100,
+    "parent": "frmSlider",
+    "pf": "frmSlider",
+    "rightskin": "sc9ba0fa5a214671a60edfdeb5a8a9f4",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAAndroidSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPABBSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAIPhoneSliderProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAWinPhone8SliderProperty",
+        "render": true
+    },
+    "stepwidth": 0,
+    "vexpand": false,
+    "view": "default",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.WinPhone8SliderProperty",
+        "_margin_": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "leftSkin": "s24542ff041f45219a807b632f78a2e7",
+        "margin": [
+            12,
+            10,
+            12,
+            0
+        ],
+        "marginInPixel": true,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true,
+        "rightSkin": "sb2b5d5f047c44fc8d6d5251e89fdc65"
+    }
+}

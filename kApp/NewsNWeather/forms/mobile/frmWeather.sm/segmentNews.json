@@ -1,0 +1,143 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgNews": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Migrants die as boat sinks off Turkey ..."
+            },
+            "richTextDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "At least 24 migrants have died off the Turkish coast trying to reach the Greek island of Lesbos, Turkish media say."
+            }
+        },
+        {
+            "imgNews": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dublin weigh-in murder: Continuity IRA ..."
+            },
+            "richTextDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dissident republicans have claimed they carried out a shooting in Dublin on Friday in which a man was killed and two others wounded"
+            }
+        },
+        {
+            "imgNews": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Chicago police officer sues victim's family ..."
+            },
+            "richTextDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A white Chicago police officer who fatally shot a black teenager last December is suing his family for $10m (£6.9m), claiming emotional distress"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentNews",
+    "ide_onRowClick": "AS_Segment_9898983eed8e46a597ae77a572f2b328",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "6420434a30264ba09188faf0af864fa8",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_e1275644913645bab528847da812f929",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxNewsContainer",
+    "pf": "frmWeather",
+    "retainselection": false,
+    "rowTemplateId": "336a4aad9cbf4ee084674e9a961405f1",
+    "rowcounter": 2,
+    "rowfocusskin": "s4a0765fdabd462b854f1433e55b501d",
+    "rowskin": "s4a0765fdabd462b854f1433e55b501d",
+    "rowtemplate": "flxLocalNews",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa27fae9bdf342199a35141340117524",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxLocalNews": "flxLocalNews",
+        "imgNews": "imgNews",
+        "lblTitle": "lblTitle",
+        "richTextDesc": "richTextDesc"
+    },
+    "zindex": 1
+}

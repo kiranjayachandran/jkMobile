@@ -1,0 +1,245 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sa5283902ce443bf8d7e12407e49a895",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.AndroidRadioProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusskin": "sa5283902ce443bf8d7e12407e49a895",
+    "hexpand": true,
+    "id": "radiobuttongroupTS1",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.IPhoneRadioProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "groupCells": false,
+            "viewConfig": {
+                "toggleViewConfig": {
+                    "enableTintColor": false,
+                    "equalSegments": true,
+                    "viewStyle": 0
+                }
+            },
+            "viewType": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "p2kwiet12581045806327",
+    "masterdata": [
+        [
+            "1",
+            "Male"
+        ],
+        [
+            "2",
+            "Female"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "tabDefaultTabFS",
+    "pf": "frmTabScreenLevel",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "Male"
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPARadioProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPAAndroidRadioProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPABBRadioProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPAIPhoneRadioProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPAWinPhone8RadioProperty",
+        "render": true
+    },
+    "tabpaneId": "tabpaneDefaultTabFS",
+    "vexpand": false,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 4,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.WinPhone8RadioProperty",
+        "_margin_": [
+            2,
+            0,
+            3,
+            0
+        ],
+        "_padding_": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "margin": [
+            2,
+            0,
+            3,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

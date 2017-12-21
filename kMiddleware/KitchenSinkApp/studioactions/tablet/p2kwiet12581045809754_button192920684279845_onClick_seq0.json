@@ -1,0 +1,1 @@
+{"p2kwiet12581045809754_button192920684279845_onClick_seq0":{"id":"p2kwiet12581045809754_button192920684279845_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_494912581045803228","type":"INVOKE_FUNCTION","sequenceKUID":"CalendarRemoveEvent","display":"CalendarRemoveEvent"}]}}

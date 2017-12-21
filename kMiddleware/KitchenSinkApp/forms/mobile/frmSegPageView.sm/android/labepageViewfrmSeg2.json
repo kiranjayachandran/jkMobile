@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "se26b7a272ec4aedb6f4d25c19edf400",
+    "_text_": "Segment in page view",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "_margin_": [
+            4,
+            7,
+            4,
+            4
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "contentAlignment": 1,
+        "margin": [
+            4,
+            7,
+            4,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "hexpand": true,
+    "id": "labepageViewfrmSeg2",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "p2kwiet12581045806478",
+    "name": "kony.ui.Label",
+    "parent": "frmSegPageView",
+    "pf": "frmSegPageView",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 1
+}

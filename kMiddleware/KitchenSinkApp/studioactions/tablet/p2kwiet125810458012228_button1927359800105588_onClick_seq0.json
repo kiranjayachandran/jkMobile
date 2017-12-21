@@ -1,0 +1,1 @@
+{"p2kwiet125810458012228_button1927359800105588_onClick_seq0":{"id":"p2kwiet125810458012228_button1927359800105588_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"expression_onClick_7780212581045804866","enableMappingEditor":false,"type":"ADD_SNIPPET","codeSnippet":"popFormAnchor.dismiss();"}]}}

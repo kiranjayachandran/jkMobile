@@ -1,0 +1,50 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_resize_": true,
+    "_skin_": "s6fc5e0f4c69484c8e8ee5f9c47fcecc",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.AndroidVBoxProperty",
+        "render": true
+    },
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "hbox192735980042714",
+        "hbox192735980042779",
+        "hbox192735980042797",
+        "hbox192735980042815",
+        "hbox192735980042833",
+        "hbox192735980042851",
+        "hbox192735980042869",
+        "hbox192735980042887",
+        "hbox192735980043205",
+        "hbox192735980088345",
+        "hbox1180105789136252",
+        "hbox1180105789136270",
+        "hbox1180105789136288"
+    ],
+    "containerweight": 100,
+    "id": "vbox192735980042695",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045807547",
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "hbox192735980094497",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

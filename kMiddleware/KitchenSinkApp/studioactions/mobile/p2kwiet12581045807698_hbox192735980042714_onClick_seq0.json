@@ -1,0 +1,1 @@
+{"p2kwiet12581045807698_hbox192735980042714_onClick_seq0":{"id":"p2kwiet12581045807698_hbox192735980042714_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_6058912581045804234","type":"INVOKE_FUNCTION","sequenceKUID":"homeBtnClick","display":"homeBtnClick"}]}}

@@ -1,0 +1,97 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        0,
+        2,
+        0
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sc28b7332b96491b8043f6a32c78268f",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.AndroidComboBoxProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 55,
+    "contentalignment": 4,
+    "focusskin": "scbcf01812ed4c10a5c47b9e265829d4",
+    "hexpand": true,
+    "id": "CmbAppSet",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.IPadComboBoxProperty",
+        "psp": {
+            "groupCells": false,
+            "viewType": 0
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010523",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "Table view",
+            "Table view"
+        ],
+        [
+            "Page view",
+            "Page view"
+        ],
+        [
+            "Coverflow view",
+            "Coverflow view"
+        ],
+        [
+            "Cylinder view",
+            "Cylinder view"
+        ],
+        [
+            "Linear view",
+            "Linear view"
+        ],
+        [
+            "Stack view",
+            "Stack view"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "paddinginpixel": false,
+    "parent": "hbox1927359800106258",
+    "pf": "frmAppSettings",
+    "selectedkey": "Table view",
+    "selectedkeyvalue": [
+        "Table view",
+        "Table view"
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAAndroidTabletComboBoxProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAIPadComboBoxProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAWindowsTabletComboBoxProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.Windows8ComboBoxProperty",
+        "render": true
+    }
+}

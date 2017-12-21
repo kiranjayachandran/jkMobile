@@ -1,0 +1,1 @@
+{"goToFrmAni":{"id":"p2kwiet125810458011370_goToFrmAni_titlebarAction","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"INVOKE_FUNCTION_goToFrmAni","type":"INVOKE_FUNCTION","sequenceKUID":"goToFrmAni","display":"goToFrmAni","inputparams":[],"parentId":null,"callbackType":null}]}}

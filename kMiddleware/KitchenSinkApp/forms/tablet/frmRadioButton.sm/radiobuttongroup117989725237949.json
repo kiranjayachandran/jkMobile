@@ -1,0 +1,95 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sa5283902ce443bf8d7e12407e49a895",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.AndroidRadioProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusskin": "sb646249355448bea3060a5df9fa9e25",
+    "hexpand": true,
+    "id": "radiobuttongroup117989725237949",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.IPadRadioProperty",
+        "psp": {
+            "groupCells": false,
+            "viewConfig": {
+                "toggleViewConfig": {
+                    "enableTintColor": false,
+                    "equalSegments": true,
+                    "viewStyle": 0
+                }
+            },
+            "viewType": 1
+        },
+        "render": false
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "p2kwiet12581045809792",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "Key1",
+            "Value1"
+        ],
+        [
+            "Key2",
+            "Value2"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "paddinginpixel": false,
+    "parent": "vbox192926642422365",
+    "pf": "frmRadioButton",
+    "selectedkey": "",
+    "selectedkeyvalue": [],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPARadioProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPAAndroidTabletRadioProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPAIPadRadioProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.SPAWindowsTabletRadioProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 4,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.radio.Windows8RadioProperty",
+        "psp": {
+            "hoverSkin": "Skin Defaults"
+        },
+        "render": true
+    }
+}

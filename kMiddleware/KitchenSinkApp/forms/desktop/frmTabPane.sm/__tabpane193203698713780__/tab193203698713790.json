@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_image_": "",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_render_": true,
+    "_skin_": "s9c3d768de4e4ae096fa786922c6b01f",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "richtext192926642422102"
+    ],
+    "containerweight": 100,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.DesktopWebTabProperty",
+        "psp": {
+            "tabHeaderTemplateId": ""
+        },
+        "render": true
+    },
+    "id": "tab193203698713790",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.KioskTabProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011987",
+    "layoutalignment": 0,
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "oninit": null,
+    "paddinginpixel": false,
+    "parent": "tabpane193203698713780",
+    "pf": "frmTabPane",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tab.SPATabProperty"
+    },
+    "spacing": 1,
+    "tabname": "Tab3",
+    "tabpaneId": "tabpane193203698713780",
+    "wType": "Tab",
+    "widgetalignment": 1
+}

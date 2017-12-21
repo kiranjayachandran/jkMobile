@@ -1,0 +1,264 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "label121043302135341": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wal-Mart Stores Inc."
+            },
+            "label121043302135342": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WMT: NYSE "
+            },
+            "label121043302135344": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Difference "
+            },
+            "label121043302135345": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Value"
+            },
+            "label121043302135347": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "label121043302135348": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "73.55"
+            },
+            "label121043302135349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.00 %"
+            },
+            "label121043302135417": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg Volume"
+            },
+            "label121043302135419": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5,958,426"
+            },
+            "label121043302135421": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.0002 %"
+            },
+            "label121043302135441": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P/E Trailing"
+            },
+            "label121043302135443": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "15.47x"
+            },
+            "label121043302135445": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.02 %"
+            },
+            "label121043302135481": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Market Cap"
+            },
+            "label121043302135485": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "248.9 B"
+            },
+            "label121043302135621": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "                              "
+            }
+        },
+        {
+            "label121043302135341": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Disney Walt CO Com"
+            },
+            "label121043302135342": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DIS: NYSE "
+            },
+            "label121043302135344": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Difference "
+            },
+            "label121043302135345": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Value"
+            },
+            "label121043302135347": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Price"
+            },
+            "label121043302135348": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "50.79"
+            },
+            "label121043302135349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.00 %"
+            },
+            "label121043302135417": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Avg Volume"
+            },
+            "label121043302135419": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7,745,441"
+            },
+            "label121043302135421": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.0001 %"
+            },
+            "label121043302135441": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P/E Trailing"
+            },
+            "label121043302135443": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "16.42x"
+            },
+            "label121043302135445": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.92 %"
+            },
+            "label121043302135481": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Market Cap"
+            },
+            "label121043302135485": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "91.1 B"
+            },
+            "label121043302135621": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "                              "
+            }
+        }
+    ],
+    "_enabled_": false,
+    "_indicator_": "none",
+    "_margin_": [
+        2,
+        2,
+        2,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seg2Normal",
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.AndroidSegment2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "dockSectionHeaders": false
+        },
+        "render": true,
+        "viewConfig": {
+            "coverflowConfig": {
+                "isCircular": true
+            }
+        },
+        "viewType": "tableview"
+    },
+    "canUpdateUI": true,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsSegements",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 3,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "p2kwiet12581045808727",
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {},
+    "id": "segment2121043302135337",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12581045808723",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmComplex",
+    "pf": "frmComplex",
+    "retainselection": false,
+    "rowTemplateId": "p2kwiet12581045808727",
+    "rowcounter": 2,
+    "rowfocusskin": "s3fe1c2ffe1540a7b8dc95584f0064ec",
+    "rowskin": "s1196d1f65ef4fb7b5eadc30eb75ab8c",
+    "screenlevelwidget": false,
+    "scrollingevents": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s5462ca1a65b4017b81fb1440c3c5c08",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": {},
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPASegment2Property"
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 1,
+    "widgetdatamap": {
+        "hbox121043302135338": "hbox121043302135338",
+        "hbox121043302135343": "hbox121043302135343",
+        "hbox121043302135346": "hbox121043302135346",
+        "hbox121043302135415": "hbox121043302135415",
+        "hbox121043302135439": "hbox121043302135439",
+        "hbox121043302135479": "hbox121043302135479",
+        "label121043302135341": "label121043302135341",
+        "label121043302135342": "label121043302135342",
+        "label121043302135344": "label121043302135344",
+        "label121043302135345": "label121043302135345",
+        "label121043302135347": "label121043302135347",
+        "label121043302135348": "label121043302135348",
+        "label121043302135349": "label121043302135349",
+        "label121043302135417": "label121043302135417",
+        "label121043302135419": "label121043302135419",
+        "label121043302135421": "label121043302135421",
+        "label121043302135441": "label121043302135441",
+        "label121043302135443": "label121043302135443",
+        "label121043302135445": "label121043302135445",
+        "label121043302135481": "label121043302135481",
+        "label121043302135485": "label121043302135485",
+        "label121043302135621": "label121043302135621",
+        "line121043302135630": "line121043302135630",
+        "line121043302135631": "line121043302135631",
+        "line121043302135632": "line121043302135632",
+        "vbox121043302135339": "vbox121043302135339"
+    }
+}

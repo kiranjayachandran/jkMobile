@@ -1,0 +1,68 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scc63c4992b34d5380431580a0aced2b",
+    "_text_": "For feedback send an email to kitchensinkapp@kony.com",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "focusskin": "scc63c4992b34d5380431580a0aced2b",
+    "hexpand": true,
+    "id": "lnkFeedback",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010283",
+    "margininpixel": false,
+    "name": "kony.ui.Link",
+    "paddinginpixel": false,
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPALinkProperty"
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPAIPadLinkProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "_padding_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Link",
+    "widgetalignment": 5
+}

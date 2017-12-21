@@ -1,0 +1,78 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        4,
+        0,
+        4,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf74184427194989bdc3e7d3b08feb95",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.AndroidSwitchProperty",
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 20,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "switch118082077327030",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.IPadSwitchProperty",
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458010205",
+    "leftsidetext": "ON",
+    "margininpixel": false,
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "paddinginpixel": false,
+    "parent": "hbox118082077327018",
+    "pf": "frmSwitch",
+    "rightsidetext": "OFF",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPASwitchProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAAndroidTabletSwitchProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAIPadSwitchProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.SPAWindowsTabletSwitchProperty",
+        "render": true
+    },
+    "swidth": 165,
+    "vexpand": false,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.switchh.Windows8SwitchProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    }
+}

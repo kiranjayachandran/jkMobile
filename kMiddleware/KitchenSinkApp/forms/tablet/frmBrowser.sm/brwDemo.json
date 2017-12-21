@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_text_": "Browser",
+    "_type_": 3,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.AndroidBrowserProperty",
+        "enableZoom": false,
+        "render": true,
+        "screenLevelWidget": false
+    },
+    "canUpdateUI": true,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "detecttelnumber": true,
+    "enablezoom": false,
+    "hexpand": true,
+    "htmlstring": "",
+    "id": "brwDemo",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.IPadBrowserProperty",
+        "detectTelNumber": true,
+        "enableZoom": false,
+        "render": true,
+        "screenLevelWidget": false
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet125810458011096",
+    "margininpixel": false,
+    "name": "kony.ui.Browser",
+    "paddinginpixel": false,
+    "parent": "hbox1930135169595878",
+    "pf": "frmBrowser",
+    "requesturlconfig": {
+        "URL": "",
+        "requestMethod": "get"
+    },
+    "screenlevelwidget": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.SPABrowserProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.SPAAndroidTabletBrowserProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.SPAIPadBrowserProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.SPAWindowsTabletBrowserProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Browser",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.browser.Windows8BrowserProperty",
+        "render": true,
+        "screenLevelWidget": false
+    }
+}

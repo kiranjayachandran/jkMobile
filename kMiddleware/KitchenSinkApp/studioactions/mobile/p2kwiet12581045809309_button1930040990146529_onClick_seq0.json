@@ -1,0 +1,1 @@
+{"p2kwiet12581045809309_button1930040990146529_onClick_seq0":{"id":"p2kwiet12581045809309_button1930040990146529_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_250371258104580812","type":"INVOKE_FUNCTION","sequenceKUID":"emailSendWithAttachment","display":"emailSendWithAttachment"}]}}

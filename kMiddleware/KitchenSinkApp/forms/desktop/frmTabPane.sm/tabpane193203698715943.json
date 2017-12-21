@@ -1,0 +1,91 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_resize_": true,
+    "activefocusskin": "s8a6d82c72214d9790b02565fb329343",
+    "activeskin": "s6264950df2243628d383d8fc6801a4d",
+    "activetab": 2,
+    "activetabs": [],
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "tab193203698715945",
+        "tab193203698715949",
+        "tab193203698715953"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsTab",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": true
+    },
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.DesktopWebTabPaneProperty",
+        "render": true,
+        "viewType": "tabview"
+    },
+    "id": "tabpane193203698715943",
+    "imageposition": "right",
+    "inactiveskin": "sbb10cbea32e4c9e94a2a23d4a195561",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.KioskTabPaneProperty",
+        "render": true,
+        "viewType": "tabview"
+    },
+    "kuid": "p2kwiet125810458012009",
+    "margininpixel": false,
+    "name": "kony.ui.TabPane",
+    "paddinginpixel": false,
+    "parent": "vbox193203698715941",
+    "pf": "frmTabPane",
+    "screenlevelwidget": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.tabpane.SPATabPaneProperty"
+    },
+    "tabnamealignment": "left",
+    "templateType": "forms",
+    "toggletabs": false,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "imagePosition": "right",
+            "tabNameAlignment": "left",
+            "toggleTabs": false
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerContainerWeight": "",
+            "headerPosition": "top",
+            "image1": "",
+            "image2": ""
+        }
+    },
+    "wType": "TabPane",
+    "widgetalignment": 1
+}

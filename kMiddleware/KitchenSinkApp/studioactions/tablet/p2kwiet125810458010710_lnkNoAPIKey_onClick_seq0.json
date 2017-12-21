@@ -1,0 +1,1 @@
+{"p2kwiet125810458010710_lnkNoAPIKey_onClick_seq0":{"id":"p2kwiet125810458010710_lnkNoAPIKey_onClick_seq0","type":"ACTION_SEQUENCE","params":[{"name":"eventobject","value":"eventobject"}],"actions":[{"id":"customcode_onClick_1739212581045802813","type":"INVOKE_FUNCTION","sequenceKUID":"requestAPiKey","display":"requestAPiKey"}]}}

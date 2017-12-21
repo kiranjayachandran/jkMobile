@@ -1,0 +1,82 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sf07587f064f41bea8a61b63cb55d5a0",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 70,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.DesktopWebListBoxProperty",
+        "psp": {
+            "multiple": false
+        },
+        "render": true
+    },
+    "focusskin": "s726685eecfb437abfa87d4492a418b3",
+    "hexpand": true,
+    "id": "listbox1177186271102033",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.KioskListBoxProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet125810458011937",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "1",
+            "value1"
+        ],
+        [
+            "2",
+            "value2"
+        ],
+        [
+            "3",
+            "value3"
+        ],
+        [
+            "4",
+            "value4"
+        ],
+        [
+            "5",
+            "value5"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "hbox68508043454812",
+    "pf": "frmListBox",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "value1"
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAListBoxProperty"
+    },
+    "vexpand": false,
+    "wType": "ListBox",
+    "widgetalignment": 1
+}

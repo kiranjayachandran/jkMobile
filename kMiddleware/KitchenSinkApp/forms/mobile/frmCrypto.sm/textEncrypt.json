@@ -1,0 +1,207 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "Give text for encryption..",
+    "_skin_": "s396693347a74dd79ba75dfd0a64733c",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.AndroidTextBox2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "_padding_": [
+            2,
+            2,
+            1,
+            2
+        ],
+        "autoFilter": false,
+        "containerHeightMode": 1,
+        "margin": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "keyboardActionLabel": 12
+        },
+        "render": true,
+        "viewType": "default"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheightmode": 1,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s3803187e0384f078e1511a4969c43ee",
+    "hexpand": true,
+    "id": "textEncrypt",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.IPhoneTextBox2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "autoCorrect": false,
+        "containerHeightMode": 1,
+        "margin": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "closeButtonText": "Done",
+            "keyboardActionLabel": 1,
+            "pasteboardType": 1,
+            "showClearButton": true,
+            "showCloseButton": true,
+            "showProgressIndicator": true
+        },
+        "render": true,
+        "viewType": "default"
+    },
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "p2kwiet12581045808120",
+    "margininpixel": false,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "vbox1930040990147647",
+    "pf": "frmCrypto",
+    "securetextentry": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPATextBox2Property",
+        "autoCorrect": false,
+        "containerHeightMode": 1
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPAAndroidTextBox2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPABBTextBox2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPAIPhoneTextBox2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPAWinPhone8TextBox2Property",
+        "render": true
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextField",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.WinPhone8TextBox2Property",
+        "_margin_": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "_padding_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "autoFilter": false,
+        "containerHeightMode": 1,
+        "margin": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}
